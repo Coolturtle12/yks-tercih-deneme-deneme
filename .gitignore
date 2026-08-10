@@ -36,6 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# local codebase audit output
+/graphify-out/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
