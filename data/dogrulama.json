@@ -1,0 +1,5282 @@
+[
+ {
+  "puanTuru": "SAY",
+  "beklenen": 252.69,
+  "netler": {
+   "tytTrkNet": 21.75,
+   "tytSosNet": 12.5,
+   "tytMatNet": 9.5,
+   "tytFenNet": 7,
+   "aytMatNet": 16.25,
+   "aytFizNet": 0.75,
+   "aytKimNet": 0.75,
+   "aytBioNet": 2.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 283.52,
+  "netler": {
+   "tytTrkNet": 25.75,
+   "tytSosNet": 12.25,
+   "tytMatNet": 15,
+   "tytFenNet": 7.25,
+   "aytMatNet": 13.5,
+   "aytFizNet": 6,
+   "aytKimNet": 3.5,
+   "aytBioNet": 5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 286.13,
+  "netler": {
+   "tytTrkNet": 27.5,
+   "tytSosNet": 10.25,
+   "tytMatNet": 13.5,
+   "tytFenNet": 12.25,
+   "aytMatNet": 14,
+   "aytFizNet": 4.5,
+   "aytKimNet": 2.75,
+   "aytBioNet": 6.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 248.12,
+  "netler": {
+   "tytTrkNet": 27.75,
+   "tytSosNet": 17.75,
+   "tytMatNet": 13.25,
+   "tytFenNet": 8,
+   "aytMatNet": 4.5,
+   "aytFizNet": 3,
+   "aytKimNet": 3,
+   "aytBioNet": 1.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 155.99,
+  "netler": {
+   "tytTrkNet": 10.25,
+   "tytSosNet": 5.5,
+   "tytMatNet": -0.75,
+   "tytFenNet": 0.25,
+   "aytMatNet": 0,
+   "aytFizNet": -0.5,
+   "aytKimNet": 0,
+   "aytBioNet": 2.25
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 222.79,
+  "netler": {
+   "tytTrkNet": 20.25,
+   "tytSosNet": 5.75,
+   "tytMatNet": 4,
+   "tytFenNet": 9.5,
+   "aytMatNet": 5,
+   "aytFizNet": 2.25,
+   "aytKimNet": 2.25,
+   "aytBioNet": 6.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 259.32,
+  "netler": {
+   "tytTrkNet": 28.5,
+   "tytSosNet": 12.25,
+   "tytMatNet": 5.75,
+   "tytFenNet": 15,
+   "aytMatNet": 7.75,
+   "aytFizNet": 3.5,
+   "aytKimNet": 5.75,
+   "aytBioNet": 2.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 361.01,
+  "netler": {
+   "tytTrkNet": 30,
+   "tytSosNet": 12,
+   "tytMatNet": 13,
+   "tytFenNet": 17.5,
+   "aytMatNet": 27.75,
+   "aytFizNet": 9,
+   "aytKimNet": 8,
+   "aytBioNet": 6.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 396.83,
+  "netler": {
+   "tytTrkNet": 28,
+   "tytSosNet": 11.5,
+   "tytMatNet": 22.25,
+   "tytFenNet": 16.25,
+   "aytMatNet": 30,
+   "aytFizNet": 11.75,
+   "aytKimNet": 11.75,
+   "aytBioNet": 8.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 303.46,
+  "netler": {
+   "tytTrkNet": 22.75,
+   "tytSosNet": 8,
+   "tytMatNet": 16.25,
+   "tytFenNet": 13.25,
+   "aytMatNet": 18,
+   "aytFizNet": 6.25,
+   "aytKimNet": 4,
+   "aytBioNet": 7.25
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 256.8,
+  "netler": {
+   "tytTrkNet": 24,
+   "tytSosNet": 4.5,
+   "tytMatNet": 8.75,
+   "tytFenNet": 14.5,
+   "aytMatNet": 12.5,
+   "aytFizNet": 1.75,
+   "aytKimNet": 2.25,
+   "aytBioNet": 6
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 261.45,
+  "netler": {
+   "tytTrkNet": 15,
+   "tytSosNet": 7.25,
+   "tytMatNet": 12.25,
+   "tytFenNet": 10.25,
+   "aytMatNet": 16.5,
+   "aytFizNet": 5.25,
+   "aytKimNet": 2.75,
+   "aytBioNet": 2.25
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 299.87,
+  "netler": {
+   "tytTrkNet": 30,
+   "tytSosNet": 13,
+   "tytMatNet": 16,
+   "tytFenNet": 12.25,
+   "aytMatNet": 10.25,
+   "aytFizNet": 6.75,
+   "aytKimNet": 3.25,
+   "aytBioNet": 9.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 338.98,
+  "netler": {
+   "tytTrkNet": 30.25,
+   "tytSosNet": 13,
+   "tytMatNet": 14.5,
+   "tytFenNet": 20,
+   "aytMatNet": 15.5,
+   "aytFizNet": 9.5,
+   "aytKimNet": 8.75,
+   "aytBioNet": 8.25
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 352.66,
+  "netler": {
+   "tytTrkNet": 17.5,
+   "tytSosNet": 5.75,
+   "tytMatNet": 16.5,
+   "tytFenNet": 15,
+   "aytMatNet": 24.25,
+   "aytFizNet": 10.25,
+   "aytKimNet": 10.5,
+   "aytBioNet": 11.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 267.56,
+  "netler": {
+   "tytTrkNet": 20,
+   "tytSosNet": 12.5,
+   "tytMatNet": 18.5,
+   "tytFenNet": 16.25,
+   "aytMatNet": 6,
+   "aytFizNet": 4.5,
+   "aytKimNet": 1.25,
+   "aytBioNet": 7.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 289.1,
+  "netler": {
+   "tytTrkNet": 18.25,
+   "tytSosNet": 11,
+   "tytMatNet": 13.75,
+   "tytFenNet": 11.75,
+   "aytMatNet": 20,
+   "aytFizNet": 5.75,
+   "aytKimNet": 2,
+   "aytBioNet": 4.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 296.63,
+  "netler": {
+   "tytTrkNet": 24,
+   "tytSosNet": 10.75,
+   "tytMatNet": 13.75,
+   "tytFenNet": 12,
+   "aytMatNet": 13.5,
+   "aytFizNet": 9.5,
+   "aytKimNet": 4.25,
+   "aytBioNet": 6.25
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 288.95,
+  "netler": {
+   "tytTrkNet": 26.25,
+   "tytSosNet": 10.75,
+   "tytMatNet": 9.75,
+   "tytFenNet": 13.5,
+   "aytMatNet": 11.5,
+   "aytFizNet": 2.5,
+   "aytKimNet": 9.75,
+   "aytBioNet": 7.25
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 288.16,
+  "netler": {
+   "tytTrkNet": 23.25,
+   "tytSosNet": 7,
+   "tytMatNet": 15,
+   "tytFenNet": 8,
+   "aytMatNet": 21,
+   "aytFizNet": 3.5,
+   "aytKimNet": 4.75,
+   "aytBioNet": 3
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 250.52,
+  "netler": {
+   "tytTrkNet": 26.25,
+   "tytSosNet": 11.75,
+   "tytMatNet": 6,
+   "tytFenNet": 13,
+   "aytMatNet": 11,
+   "aytFizNet": 1.25,
+   "aytKimNet": 2,
+   "aytBioNet": 3.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 273.01,
+  "netler": {
+   "tytTrkNet": 31.25,
+   "tytSosNet": 11.25,
+   "tytMatNet": 16.25,
+   "tytFenNet": 11.75,
+   "aytMatNet": 11,
+   "aytFizNet": -2,
+   "aytKimNet": 4.5,
+   "aytBioNet": 5.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 385.63,
+  "netler": {
+   "tytTrkNet": 27.75,
+   "tytSosNet": 13.75,
+   "tytMatNet": 25.25,
+   "tytFenNet": 18.75,
+   "aytMatNet": 24.5,
+   "aytFizNet": 9,
+   "aytKimNet": 10.5,
+   "aytBioNet": 10.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 161.72,
+  "netler": {
+   "tytTrkNet": 4,
+   "tytSosNet": 1,
+   "tytMatNet": 4.25,
+   "tytFenNet": 0.5,
+   "aytMatNet": 5,
+   "aytFizNet": 0.5,
+   "aytKimNet": -0.25,
+   "aytBioNet": 0.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 293.26,
+  "netler": {
+   "tytTrkNet": 30,
+   "tytSosNet": 7.25,
+   "tytMatNet": 17,
+   "tytFenNet": 16.25,
+   "aytMatNet": 12.5,
+   "aytFizNet": 4,
+   "aytKimNet": 5.5,
+   "aytBioNet": 5.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 244.36,
+  "netler": {
+   "tytTrkNet": 30.75,
+   "tytSosNet": 12,
+   "tytMatNet": 6.75,
+   "tytFenNet": 9.25,
+   "aytMatNet": 4.5,
+   "aytFizNet": 5,
+   "aytKimNet": 1.75,
+   "aytBioNet": 4
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 316.25,
+  "netler": {
+   "tytTrkNet": 29.75,
+   "tytSosNet": 10,
+   "tytMatNet": 19.25,
+   "tytFenNet": 15.75,
+   "aytMatNet": 17.75,
+   "aytFizNet": 3,
+   "aytKimNet": 6.5,
+   "aytBioNet": 6.25
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 358.37,
+  "netler": {
+   "tytTrkNet": 27,
+   "tytSosNet": 14.5,
+   "tytMatNet": 19,
+   "tytFenNet": 16.5,
+   "aytMatNet": 23,
+   "aytFizNet": 7.25,
+   "aytKimNet": 7.25,
+   "aytBioNet": 10.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 264.26,
+  "netler": {
+   "tytTrkNet": 17,
+   "tytSosNet": 8.25,
+   "tytMatNet": 12,
+   "tytFenNet": 8,
+   "aytMatNet": 15,
+   "aytFizNet": 7,
+   "aytKimNet": 3,
+   "aytBioNet": 2.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 217.68,
+  "netler": {
+   "tytTrkNet": 25.75,
+   "tytSosNet": 3.5,
+   "tytMatNet": 12.25,
+   "tytFenNet": 4.25,
+   "aytMatNet": 4,
+   "aytFizNet": 2.5,
+   "aytKimNet": 2.5,
+   "aytBioNet": 1.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 378.76,
+  "netler": {
+   "tytTrkNet": 24.5,
+   "tytSosNet": 8,
+   "tytMatNet": 26,
+   "tytFenNet": 15.25,
+   "aytMatNet": 29.25,
+   "aytFizNet": 7,
+   "aytKimNet": 8.5,
+   "aytBioNet": 11.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 334.84,
+  "netler": {
+   "tytTrkNet": 25.5,
+   "tytSosNet": 11.5,
+   "tytMatNet": 17.25,
+   "tytFenNet": 10.5,
+   "aytMatNet": 15.25,
+   "aytFizNet": 9.25,
+   "aytKimNet": 8.25,
+   "aytBioNet": 13
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 396.67,
+  "netler": {
+   "tytTrkNet": 33.25,
+   "tytSosNet": 13.75,
+   "tytMatNet": 24.5,
+   "tytFenNet": 17.5,
+   "aytMatNet": 30.25,
+   "aytFizNet": 10.25,
+   "aytKimNet": 8,
+   "aytBioNet": 8
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 350.52,
+  "netler": {
+   "tytTrkNet": 25,
+   "tytSosNet": 13.75,
+   "tytMatNet": 19.75,
+   "tytFenNet": 13.75,
+   "aytMatNet": 19.25,
+   "aytFizNet": 12.75,
+   "aytKimNet": 8,
+   "aytBioNet": 8
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 296.62,
+  "netler": {
+   "tytTrkNet": 30,
+   "tytSosNet": 9.25,
+   "tytMatNet": 16.25,
+   "tytFenNet": 10.75,
+   "aytMatNet": 15.25,
+   "aytFizNet": 4.5,
+   "aytKimNet": 7,
+   "aytBioNet": 3.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 236.68,
+  "netler": {
+   "tytTrkNet": 27.5,
+   "tytSosNet": 9,
+   "tytMatNet": 8,
+   "tytFenNet": 5,
+   "aytMatNet": 3.5,
+   "aytFizNet": 4.75,
+   "aytKimNet": 4.25,
+   "aytBioNet": 4
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 271.96,
+  "netler": {
+   "tytTrkNet": 30,
+   "tytSosNet": 10,
+   "tytMatNet": 8.25,
+   "tytFenNet": 13.75,
+   "aytMatNet": 10.5,
+   "aytFizNet": 8,
+   "aytKimNet": 0.75,
+   "aytBioNet": 4.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 205.52,
+  "netler": {
+   "tytTrkNet": 13.25,
+   "tytSosNet": 10.25,
+   "tytMatNet": 5.75,
+   "tytFenNet": 2.25,
+   "aytMatNet": 6.5,
+   "aytFizNet": 0.5,
+   "aytKimNet": 4.25,
+   "aytBioNet": 1
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 293.37,
+  "netler": {
+   "tytTrkNet": 26.25,
+   "tytSosNet": 12.5,
+   "tytMatNet": 19.75,
+   "tytFenNet": 12.75,
+   "aytMatNet": 12.25,
+   "aytFizNet": 5.75,
+   "aytKimNet": 3.25,
+   "aytBioNet": 5.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 229.74,
+  "netler": {
+   "tytTrkNet": 15.5,
+   "tytSosNet": 2.5,
+   "tytMatNet": 7.5,
+   "tytFenNet": 8.25,
+   "aytMatNet": 9.75,
+   "aytFizNet": 5.25,
+   "aytKimNet": 2.75,
+   "aytBioNet": 3
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 433.62,
+  "netler": {
+   "tytTrkNet": 37.5,
+   "tytSosNet": 17.75,
+   "tytMatNet": 29.75,
+   "tytFenNet": 17.5,
+   "aytMatNet": 29,
+   "aytFizNet": 10.25,
+   "aytKimNet": 13,
+   "aytBioNet": 12
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 278.76,
+  "netler": {
+   "tytTrkNet": 19,
+   "tytSosNet": 11.25,
+   "tytMatNet": 25,
+   "tytFenNet": 13.75,
+   "aytMatNet": 10.75,
+   "aytFizNet": 4.5,
+   "aytKimNet": 4.25,
+   "aytBioNet": 2.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 164.31,
+  "netler": {
+   "tytTrkNet": 20.75,
+   "tytSosNet": 8.75,
+   "tytMatNet": 1.75,
+   "tytFenNet": 3.75,
+   "aytMatNet": 1,
+   "aytFizNet": 4,
+   "aytKimNet": -1.5,
+   "aytBioNet": 1.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 277.84,
+  "netler": {
+   "tytTrkNet": 29.75,
+   "tytSosNet": 15.25,
+   "tytMatNet": 13.25,
+   "tytFenNet": 15.5,
+   "aytMatNet": 6.5,
+   "aytFizNet": 4.5,
+   "aytKimNet": 3.75,
+   "aytBioNet": 6
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 359.61,
+  "netler": {
+   "tytTrkNet": 30.75,
+   "tytSosNet": 11.75,
+   "tytMatNet": 16.5,
+   "tytFenNet": 18.75,
+   "aytMatNet": 22.5,
+   "aytFizNet": 9.5,
+   "aytKimNet": 9.5,
+   "aytBioNet": 7.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 378.29,
+  "netler": {
+   "tytTrkNet": 27.25,
+   "tytSosNet": 9.25,
+   "tytMatNet": 24,
+   "tytFenNet": 19,
+   "aytMatNet": 24.75,
+   "aytFizNet": 10.75,
+   "aytKimNet": 10.75,
+   "aytBioNet": 8.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 324.22,
+  "netler": {
+   "tytTrkNet": 26.25,
+   "tytSosNet": 13.25,
+   "tytMatNet": 22.75,
+   "tytFenNet": 10.75,
+   "aytMatNet": 19.75,
+   "aytFizNet": 7,
+   "aytKimNet": 5,
+   "aytBioNet": 5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 278.04,
+  "netler": {
+   "tytTrkNet": 30,
+   "tytSosNet": 12.5,
+   "tytMatNet": 14.5,
+   "tytFenNet": 7.25,
+   "aytMatNet": 13,
+   "aytFizNet": 4.5,
+   "aytKimNet": 1.5,
+   "aytBioNet": 5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 294.38,
+  "netler": {
+   "tytTrkNet": 25.75,
+   "tytSosNet": 10.25,
+   "tytMatNet": 16.25,
+   "tytFenNet": 10.25,
+   "aytMatNet": 19.25,
+   "aytFizNet": 5,
+   "aytKimNet": 1.5,
+   "aytBioNet": 4.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 275.19,
+  "netler": {
+   "tytTrkNet": 19.25,
+   "tytSosNet": 11.25,
+   "tytMatNet": 10.5,
+   "tytFenNet": 11.75,
+   "aytMatNet": 13.75,
+   "aytFizNet": 4.5,
+   "aytKimNet": 4.75,
+   "aytBioNet": 5.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 434.27,
+  "netler": {
+   "tytTrkNet": 31.25,
+   "tytSosNet": 18.75,
+   "tytMatNet": 22.5,
+   "tytFenNet": 18.75,
+   "aytMatNet": 32.5,
+   "aytFizNet": 12.75,
+   "aytKimNet": 13,
+   "aytBioNet": 11.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 240.02,
+  "netler": {
+   "tytTrkNet": 27,
+   "tytSosNet": 12,
+   "tytMatNet": 12.5,
+   "tytFenNet": 9,
+   "aytMatNet": 4,
+   "aytFizNet": 3,
+   "aytKimNet": 0.5,
+   "aytBioNet": 4.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 305.21,
+  "netler": {
+   "tytTrkNet": 23.5,
+   "tytSosNet": 17.75,
+   "tytMatNet": 16,
+   "tytFenNet": 11.75,
+   "aytMatNet": 10.5,
+   "aytFizNet": 6.5,
+   "aytKimNet": 7,
+   "aytBioNet": 8.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 258.74,
+  "netler": {
+   "tytTrkNet": 15.5,
+   "tytSosNet": 10.25,
+   "tytMatNet": 9.25,
+   "tytFenNet": 3.25,
+   "aytMatNet": 13.5,
+   "aytFizNet": 3.25,
+   "aytKimNet": 4.5,
+   "aytBioNet": 7.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 304.85,
+  "netler": {
+   "tytTrkNet": 31.25,
+   "tytSosNet": 11.25,
+   "tytMatNet": 18.25,
+   "tytFenNet": 20,
+   "aytMatNet": 11.75,
+   "aytFizNet": 3,
+   "aytKimNet": 5.75,
+   "aytBioNet": 6.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 227.16,
+  "netler": {
+   "tytTrkNet": 30.75,
+   "tytSosNet": 8.5,
+   "tytMatNet": 9,
+   "tytFenNet": 6.75,
+   "aytMatNet": 4.75,
+   "aytFizNet": 2.75,
+   "aytKimNet": 0.75,
+   "aytBioNet": 1.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 296.1,
+  "netler": {
+   "tytTrkNet": 30.25,
+   "tytSosNet": 9.75,
+   "tytMatNet": 14.75,
+   "tytFenNet": 16.75,
+   "aytMatNet": 17.75,
+   "aytFizNet": 1.5,
+   "aytKimNet": 4,
+   "aytBioNet": 4.25
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 358.5,
+  "netler": {
+   "tytTrkNet": 33,
+   "tytSosNet": 9.75,
+   "tytMatNet": 20.75,
+   "tytFenNet": 17.5,
+   "aytMatNet": 23.5,
+   "aytFizNet": 7,
+   "aytKimNet": 9.25,
+   "aytBioNet": 6.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 267.55,
+  "netler": {
+   "tytTrkNet": 25.5,
+   "tytSosNet": 14,
+   "tytMatNet": 11.75,
+   "tytFenNet": 7.5,
+   "aytMatNet": 10.25,
+   "aytFizNet": 4.25,
+   "aytKimNet": 2.75,
+   "aytBioNet": 5.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 464.98,
+  "netler": {
+   "tytTrkNet": 30,
+   "tytSosNet": 15,
+   "tytMatNet": 33.5,
+   "tytFenNet": 18.75,
+   "aytMatNet": 40,
+   "aytFizNet": 12.75,
+   "aytKimNet": 13,
+   "aytBioNet": 11.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 336.14,
+  "netler": {
+   "tytTrkNet": 31.25,
+   "tytSosNet": 14,
+   "tytMatNet": 18.5,
+   "tytFenNet": 17.5,
+   "aytMatNet": 12.5,
+   "aytFizNet": 6.75,
+   "aytKimNet": 8,
+   "aytBioNet": 11.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 232.94,
+  "netler": {
+   "tytTrkNet": 31.75,
+   "tytSosNet": 14,
+   "tytMatNet": 12.75,
+   "tytFenNet": 9.5,
+   "aytMatNet": 3.25,
+   "aytFizNet": 0.25,
+   "aytKimNet": 1.5,
+   "aytBioNet": 1
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 261.49,
+  "netler": {
+   "tytTrkNet": 28.25,
+   "tytSosNet": 4,
+   "tytMatNet": 12,
+   "tytFenNet": 4.5,
+   "aytMatNet": 16.5,
+   "aytFizNet": 1.25,
+   "aytKimNet": 2.25,
+   "aytBioNet": 4.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 259.07,
+  "netler": {
+   "tytTrkNet": 28.75,
+   "tytSosNet": 7.75,
+   "tytMatNet": 3,
+   "tytFenNet": 14,
+   "aytMatNet": 4.25,
+   "aytFizNet": 4.5,
+   "aytKimNet": 4.75,
+   "aytBioNet": 10.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 258.49,
+  "netler": {
+   "tytTrkNet": 19.5,
+   "tytSosNet": 10.5,
+   "tytMatNet": 7.5,
+   "tytFenNet": 12.5,
+   "aytMatNet": 5.75,
+   "aytFizNet": 8.25,
+   "aytKimNet": 5.75,
+   "aytBioNet": 5.25
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 237.19,
+  "netler": {
+   "tytTrkNet": 33.75,
+   "tytSosNet": 12.5,
+   "tytMatNet": 12,
+   "tytFenNet": 5.75,
+   "aytMatNet": 5,
+   "aytFizNet": 2.25,
+   "aytKimNet": -0.25,
+   "aytBioNet": 2.25
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 425.92,
+  "netler": {
+   "tytTrkNet": 35,
+   "tytSosNet": 15,
+   "tytMatNet": 31.25,
+   "tytFenNet": 18.75,
+   "aytMatNet": 28.75,
+   "aytFizNet": 11.5,
+   "aytKimNet": 10.5,
+   "aytBioNet": 11.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 257.06,
+  "netler": {
+   "tytTrkNet": 23.75,
+   "tytSosNet": 11.5,
+   "tytMatNet": 14.75,
+   "tytFenNet": 8.25,
+   "aytMatNet": 8.5,
+   "aytFizNet": 4.25,
+   "aytKimNet": 1.75,
+   "aytBioNet": 4.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 223.95,
+  "netler": {
+   "tytTrkNet": 17.25,
+   "tytSosNet": 9.5,
+   "tytMatNet": 6.25,
+   "tytFenNet": 4.75,
+   "aytMatNet": 5,
+   "aytFizNet": 1,
+   "aytKimNet": 4.75,
+   "aytBioNet": 6
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 412.83,
+  "netler": {
+   "tytTrkNet": 32.5,
+   "tytSosNet": 15.25,
+   "tytMatNet": 21.5,
+   "tytFenNet": 18.75,
+   "aytMatNet": 34.25,
+   "aytFizNet": 9,
+   "aytKimNet": 11.75,
+   "aytBioNet": 8
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 240.9,
+  "netler": {
+   "tytTrkNet": 17.5,
+   "tytSosNet": 2,
+   "tytMatNet": 10.5,
+   "tytFenNet": 12.75,
+   "aytMatNet": 5.25,
+   "aytFizNet": 6,
+   "aytKimNet": 5,
+   "aytBioNet": 5.25
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 383.75,
+  "netler": {
+   "tytTrkNet": 31.5,
+   "tytSosNet": 13,
+   "tytMatNet": 23.5,
+   "tytFenNet": 16.25,
+   "aytMatNet": 24,
+   "aytFizNet": 9.5,
+   "aytKimNet": 11.75,
+   "aytBioNet": 9.25
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 318.92,
+  "netler": {
+   "tytTrkNet": 25,
+   "tytSosNet": 12,
+   "tytMatNet": 16,
+   "tytFenNet": 13.75,
+   "aytMatNet": 18.75,
+   "aytFizNet": 4.25,
+   "aytKimNet": 6.5,
+   "aytBioNet": 8.75
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 228.92,
+  "netler": {
+   "tytTrkNet": 21.5,
+   "tytSosNet": 7.25,
+   "tytMatNet": 10.75,
+   "tytFenNet": 10.25,
+   "aytMatNet": 5,
+   "aytFizNet": 4,
+   "aytKimNet": 2.25,
+   "aytBioNet": 2
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 249.32,
+  "netler": {
+   "tytTrkNet": 26.5,
+   "tytSosNet": 8.75,
+   "tytMatNet": 11.75,
+   "tytFenNet": 8.25,
+   "aytMatNet": 8.75,
+   "aytFizNet": 1.5,
+   "aytKimNet": 1.25,
+   "aytBioNet": 6.25
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 257.61,
+  "netler": {
+   "tytTrkNet": 30.25,
+   "tytSosNet": 12.5,
+   "tytMatNet": 7.75,
+   "tytFenNet": 8.5,
+   "aytMatNet": 13,
+   "aytFizNet": 1.75,
+   "aytKimNet": 2.25,
+   "aytBioNet": 2
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 145.53,
+  "netler": {
+   "tytTrkNet": 4.5,
+   "tytSosNet": 7.5,
+   "tytMatNet": -0.25,
+   "tytFenNet": -0.75,
+   "aytMatNet": -1.25,
+   "aytFizNet": 0.5,
+   "aytKimNet": 0,
+   "aytBioNet": 0.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 276.92,
+  "netler": {
+   "tytTrkNet": 0,
+   "tytSosNet": 0,
+   "tytMatNet": 34.5,
+   "tytFenNet": 0,
+   "aytMatNet": 33.25,
+   "aytFizNet": 0,
+   "aytKimNet": 0,
+   "aytBioNet": 0
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 259.6,
+  "netler": {
+   "tytTrkNet": 25,
+   "tytSosNet": 9.75,
+   "tytMatNet": 16.5,
+   "tytFenNet": 11.25,
+   "aytMatNet": 10,
+   "aytFizNet": 1.75,
+   "aytKimNet": 0.75,
+   "aytBioNet": 5.5
+  }
+ },
+ {
+  "puanTuru": "SAY",
+  "beklenen": 181.99,
+  "netler": {
+   "tytTrkNet": 15,
+   "tytSosNet": 11.25,
+   "tytMatNet": 2.25,
+   "tytFenNet": 0.25,
+   "aytMatNet": -1.75,
+   "aytFizNet": -1.5,
+   "aytKimNet": -0.75,
+   "aytBioNet": 9.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 237.7,
+  "netler": {
+   "tytTrkNet": 22,
+   "tytSosNet": 7,
+   "tytMatNet": 6.75,
+   "tytFenNet": 0,
+   "aytMatNet": 5,
+   "aytTdeNet": 12.25,
+   "aytTrh1Net": 2.25,
+   "aytCog1Net": 2.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 150.49,
+  "netler": {
+   "tytTrkNet": 4.25,
+   "tytSosNet": 2.5,
+   "tytMatNet": -3.25,
+   "tytFenNet": 0,
+   "aytMatNet": -1.5,
+   "aytTdeNet": 5.75,
+   "aytTrh1Net": 0.5,
+   "aytCog1Net": 1.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 221.74,
+  "netler": {
+   "tytTrkNet": 24.5,
+   "tytSosNet": 10.5,
+   "tytMatNet": 4.5,
+   "tytFenNet": 0.25,
+   "aytMatNet": 2.5,
+   "aytTdeNet": 12.75,
+   "aytTrh1Net": -0.5,
+   "aytCog1Net": 0
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 273.3,
+  "netler": {
+   "tytTrkNet": 23.25,
+   "tytSosNet": 4.75,
+   "tytMatNet": 11.25,
+   "tytFenNet": 7.25,
+   "aytMatNet": 4.25,
+   "aytTdeNet": 16.5,
+   "aytTrh1Net": 5,
+   "aytCog1Net": 4.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 187.21,
+  "netler": {
+   "tytTrkNet": 16.25,
+   "tytSosNet": 10.75,
+   "tytMatNet": 0,
+   "tytFenNet": -0.5,
+   "aytMatNet": 0,
+   "aytTdeNet": 7.5,
+   "aytTrh1Net": 0.5,
+   "aytCog1Net": 0.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 403.86,
+  "netler": {
+   "tytTrkNet": 33,
+   "tytSosNet": 15,
+   "tytMatNet": 24,
+   "tytFenNet": 18,
+   "aytMatNet": 22.5,
+   "aytTdeNet": 20.5,
+   "aytTrh1Net": 10,
+   "aytCog1Net": 4.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 262.93,
+  "netler": {
+   "tytTrkNet": 27,
+   "tytSosNet": 9.25,
+   "tytMatNet": 6.25,
+   "tytFenNet": 2.25,
+   "aytMatNet": 5.25,
+   "aytTdeNet": 16.5,
+   "aytTrh1Net": 4.25,
+   "aytCog1Net": 1.5
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 151.07,
+  "netler": {
+   "tytTrkNet": 7.5,
+   "tytSosNet": 5,
+   "tytMatNet": -3.75,
+   "tytFenNet": 1.25,
+   "aytMatNet": 1.25,
+   "aytTdeNet": 0.25,
+   "aytTrh1Net": 1.25,
+   "aytCog1Net": 1
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 180.09,
+  "netler": {
+   "tytTrkNet": 23.25,
+   "tytSosNet": 3.5,
+   "tytMatNet": -0.5,
+   "tytFenNet": 1.5,
+   "aytMatNet": -0.25,
+   "aytTdeNet": 5.75,
+   "aytTrh1Net": -0.25,
+   "aytCog1Net": 0.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 169.6,
+  "netler": {
+   "tytTrkNet": 13.5,
+   "tytSosNet": 3.75,
+   "tytMatNet": -0.5,
+   "tytFenNet": 1,
+   "aytMatNet": 0,
+   "aytTdeNet": 5.75,
+   "aytTrh1Net": 0,
+   "aytCog1Net": 0.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 146.31,
+  "netler": {
+   "tytTrkNet": 2.75,
+   "tytSosNet": 3.75,
+   "tytMatNet": -0.75,
+   "tytFenNet": 0,
+   "aytMatNet": -0.25,
+   "aytTdeNet": 3,
+   "aytTrh1Net": 0.75,
+   "aytCog1Net": 0
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 346.05,
+  "netler": {
+   "tytTrkNet": 27.75,
+   "tytSosNet": 14.5,
+   "tytMatNet": 16,
+   "tytFenNet": 4.25,
+   "aytMatNet": 18.75,
+   "aytTdeNet": 17.75,
+   "aytTrh1Net": 7.5,
+   "aytCog1Net": 4.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 161.59,
+  "netler": {
+   "tytTrkNet": 21,
+   "tytSosNet": 6,
+   "tytMatNet": -3.5,
+   "tytFenNet": -0.5,
+   "aytMatNet": 1.75,
+   "aytTdeNet": 2.25,
+   "aytTrh1Net": -1.5,
+   "aytCog1Net": -1
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 332.98,
+  "netler": {
+   "tytTrkNet": 27.75,
+   "tytSosNet": 14,
+   "tytMatNet": 13.75,
+   "tytFenNet": 0,
+   "aytMatNet": 18.5,
+   "aytTdeNet": 16.5,
+   "aytTrh1Net": 8.75,
+   "aytCog1Net": 3.5
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 150.04,
+  "netler": {
+   "tytTrkNet": 5.5,
+   "tytSosNet": 1.5,
+   "tytMatNet": -0.75,
+   "tytFenNet": 2,
+   "aytMatNet": 2,
+   "aytTdeNet": -0.5,
+   "aytTrh1Net": 0.75,
+   "aytCog1Net": 1.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 298.96,
+  "netler": {
+   "tytTrkNet": 25.75,
+   "tytSosNet": 14.75,
+   "tytMatNet": 13.75,
+   "tytFenNet": 13.75,
+   "aytMatNet": 10.5,
+   "aytTdeNet": 14.5,
+   "aytTrh1Net": 1.5,
+   "aytCog1Net": 3.5
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 246.73,
+  "netler": {
+   "tytTrkNet": 27.5,
+   "tytSosNet": 9,
+   "tytMatNet": 2.25,
+   "tytFenNet": 1.5,
+   "aytMatNet": 2.75,
+   "aytTdeNet": 13,
+   "aytTrh1Net": 5.75,
+   "aytCog1Net": 2.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 258.1,
+  "netler": {
+   "tytTrkNet": 27.5,
+   "tytSosNet": 17.5,
+   "tytMatNet": 10.25,
+   "tytFenNet": 2.75,
+   "aytMatNet": 2.75,
+   "aytTdeNet": 11.75,
+   "aytTrh1Net": 4.25,
+   "aytCog1Net": 1.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 202.36,
+  "netler": {
+   "tytTrkNet": 17,
+   "tytSosNet": 12.25,
+   "tytMatNet": 0.5,
+   "tytFenNet": -2.5,
+   "aytMatNet": 6.25,
+   "aytTdeNet": 6.75,
+   "aytTrh1Net": 0,
+   "aytCog1Net": 0.5
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 382.33,
+  "netler": {
+   "tytTrkNet": 32.5,
+   "tytSosNet": 15,
+   "tytMatNet": 22.75,
+   "tytFenNet": 7.5,
+   "aytMatNet": 21.25,
+   "aytTdeNet": 19,
+   "aytTrh1Net": 10,
+   "aytCog1Net": 4.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 229.75,
+  "netler": {
+   "tytTrkNet": 21.25,
+   "tytSosNet": 13.75,
+   "tytMatNet": 3,
+   "tytFenNet": 0,
+   "aytMatNet": 2.5,
+   "aytTdeNet": 10.5,
+   "aytTrh1Net": 5,
+   "aytCog1Net": 1
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 336.06,
+  "netler": {
+   "tytTrkNet": 34,
+   "tytSosNet": 15.25,
+   "tytMatNet": 10.25,
+   "tytFenNet": 7.25,
+   "aytMatNet": 17,
+   "aytTdeNet": 18,
+   "aytTrh1Net": 7.75,
+   "aytCog1Net": 1.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 198.79,
+  "netler": {
+   "tytTrkNet": 10.75,
+   "tytSosNet": 9,
+   "tytMatNet": -2,
+   "tytFenNet": 0,
+   "aytMatNet": 4.5,
+   "aytTdeNet": 9,
+   "aytTrh1Net": 2,
+   "aytCog1Net": 1.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 301.37,
+  "netler": {
+   "tytTrkNet": 30.25,
+   "tytSosNet": 11.5,
+   "tytMatNet": 11.5,
+   "tytFenNet": 4,
+   "aytMatNet": 10.25,
+   "aytTdeNet": 16.5,
+   "aytTrh1Net": 5.25,
+   "aytCog1Net": 3.5
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 287.72,
+  "netler": {
+   "tytTrkNet": 23.5,
+   "tytSosNet": 15.25,
+   "tytMatNet": 7,
+   "tytFenNet": 8.25,
+   "aytMatNet": 9.5,
+   "aytTdeNet": 19,
+   "aytTrh1Net": 4,
+   "aytCog1Net": -0.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 141.26,
+  "netler": {
+   "tytTrkNet": 11.25,
+   "tytSosNet": 5.25,
+   "tytMatNet": 1.5,
+   "tytFenNet": 1.5,
+   "aytMatNet": 2.75,
+   "aytTdeNet": 0,
+   "aytTrh1Net": 0,
+   "aytCog1Net": 0
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 293.75,
+  "netler": {
+   "tytTrkNet": 34.25,
+   "tytSosNet": 11.75,
+   "tytMatNet": 12.75,
+   "tytFenNet": 0,
+   "aytMatNet": 9.5,
+   "aytTdeNet": 17,
+   "aytTrh1Net": 3.75,
+   "aytCog1Net": 1.5
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 249.93,
+  "netler": {
+   "tytTrkNet": 25.25,
+   "tytSosNet": 15.25,
+   "tytMatNet": 1.5,
+   "tytFenNet": 1.5,
+   "aytMatNet": 2,
+   "aytTdeNet": 14,
+   "aytTrh1Net": 6.75,
+   "aytCog1Net": 1.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 195.62,
+  "netler": {
+   "tytTrkNet": 21.5,
+   "tytSosNet": 10.75,
+   "tytMatNet": 2,
+   "tytFenNet": 3.25,
+   "aytMatNet": 2,
+   "aytTdeNet": 5,
+   "aytTrh1Net": 1,
+   "aytCog1Net": -0.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 158.71,
+  "netler": {
+   "tytTrkNet": 10.75,
+   "tytSosNet": 5.25,
+   "tytMatNet": -0.25,
+   "tytFenNet": 0,
+   "aytMatNet": 1,
+   "aytTdeNet": 3,
+   "aytTrh1Net": 0,
+   "aytCog1Net": -0.5
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 154.11,
+  "netler": {
+   "tytTrkNet": 10.75,
+   "tytSosNet": 5.25,
+   "tytMatNet": -1,
+   "tytFenNet": 0.75,
+   "aytMatNet": -0.75,
+   "aytTdeNet": 1,
+   "aytTrh1Net": 1.75,
+   "aytCog1Net": 0.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 304.94,
+  "netler": {
+   "tytTrkNet": 24.25,
+   "tytSosNet": 13.75,
+   "tytMatNet": 10.5,
+   "tytFenNet": 1,
+   "aytMatNet": 11.75,
+   "aytTdeNet": 19,
+   "aytTrh1Net": 5,
+   "aytCog1Net": 4
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 257.47,
+  "netler": {
+   "tytTrkNet": 25.5,
+   "tytSosNet": 11.25,
+   "tytMatNet": 4,
+   "tytFenNet": 0.75,
+   "aytMatNet": 3,
+   "aytTdeNet": 16.75,
+   "aytTrh1Net": 6.5,
+   "aytCog1Net": 1
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 201,
+  "netler": {
+   "tytTrkNet": 22.25,
+   "tytSosNet": 7.5,
+   "tytMatNet": 0.75,
+   "tytFenNet": -0.75,
+   "aytMatNet": 2,
+   "aytTdeNet": 8.5,
+   "aytTrh1Net": 1,
+   "aytCog1Net": 0.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 268.52,
+  "netler": {
+   "tytTrkNet": 24.25,
+   "tytSosNet": 12,
+   "tytMatNet": 16.5,
+   "tytFenNet": 2.75,
+   "aytMatNet": 5,
+   "aytTdeNet": 16,
+   "aytTrh1Net": 2,
+   "aytCog1Net": 1
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 127.96,
+  "netler": {
+   "tytTrkNet": 1.25,
+   "tytSosNet": 2.5,
+   "tytMatNet": 1,
+   "tytFenNet": -0.75,
+   "aytMatNet": -0.5,
+   "aytTdeNet": 2.75,
+   "aytTrh1Net": 0,
+   "aytCog1Net": 1
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 186.65,
+  "netler": {
+   "tytTrkNet": 14.25,
+   "tytSosNet": 6,
+   "tytMatNet": 0,
+   "tytFenNet": -0.25,
+   "aytMatNet": -0.5,
+   "aytTdeNet": 8,
+   "aytTrh1Net": 1.5,
+   "aytCog1Net": 2.5
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 169,
+  "netler": {
+   "tytTrkNet": 14.25,
+   "tytSosNet": 7.75,
+   "tytMatNet": -1.75,
+   "tytFenNet": -0.25,
+   "aytMatNet": 1,
+   "aytTdeNet": 2.25,
+   "aytTrh1Net": 1,
+   "aytCog1Net": 1.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 267.35,
+  "netler": {
+   "tytTrkNet": 28.75,
+   "tytSosNet": 15,
+   "tytMatNet": 6.5,
+   "tytFenNet": 0,
+   "aytMatNet": 3.75,
+   "aytTdeNet": 12.75,
+   "aytTrh1Net": 5.25,
+   "aytCog1Net": 5
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 215.97,
+  "netler": {
+   "tytTrkNet": 19.5,
+   "tytSosNet": 8,
+   "tytMatNet": 6,
+   "tytFenNet": -0.5,
+   "aytMatNet": 2,
+   "aytTdeNet": 11.5,
+   "aytTrh1Net": 1.5,
+   "aytCog1Net": 0.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 366.83,
+  "netler": {
+   "tytTrkNet": 31.25,
+   "tytSosNet": 13.75,
+   "tytMatNet": 21.75,
+   "tytFenNet": 9.75,
+   "aytMatNet": 22.5,
+   "aytTdeNet": 15.25,
+   "aytTrh1Net": 8.75,
+   "aytCog1Net": 3.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 202.41,
+  "netler": {
+   "tytTrkNet": 25.25,
+   "tytSosNet": 8,
+   "tytMatNet": 6.5,
+   "tytFenNet": 0.75,
+   "aytMatNet": 0.5,
+   "aytTdeNet": 5.5,
+   "aytTrh1Net": 0.75,
+   "aytCog1Net": 1.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 318.28,
+  "netler": {
+   "tytTrkNet": 34.25,
+   "tytSosNet": 15.5,
+   "tytMatNet": 12.5,
+   "tytFenNet": 2.5,
+   "aytMatNet": 17.5,
+   "aytTdeNet": 13,
+   "aytTrh1Net": 6.5,
+   "aytCog1Net": 1.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 285.77,
+  "netler": {
+   "tytTrkNet": 37.5,
+   "tytSosNet": 16.5,
+   "tytMatNet": 6,
+   "tytFenNet": 0.25,
+   "aytMatNet": 3,
+   "aytTdeNet": 21.5,
+   "aytTrh1Net": 3,
+   "aytCog1Net": 1
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 198.81,
+  "netler": {
+   "tytTrkNet": 24.5,
+   "tytSosNet": 10,
+   "tytMatNet": 0,
+   "tytFenNet": 0,
+   "aytMatNet": 0.75,
+   "aytTdeNet": 5.25,
+   "aytTrh1Net": 2,
+   "aytCog1Net": 1.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 269.83,
+  "netler": {
+   "tytTrkNet": 26.25,
+   "tytSosNet": 11.25,
+   "tytMatNet": 10.5,
+   "tytFenNet": 5.75,
+   "aytMatNet": 6,
+   "aytTdeNet": 14,
+   "aytTrh1Net": 3.75,
+   "aytCog1Net": 2.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 382.42,
+  "netler": {
+   "tytTrkNet": 24.75,
+   "tytSosNet": 13,
+   "tytMatNet": 23,
+   "tytFenNet": 9,
+   "aytMatNet": 28.25,
+   "aytTdeNet": 17,
+   "aytTrh1Net": 8,
+   "aytCog1Net": 5
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 152.44,
+  "netler": {
+   "tytTrkNet": 5,
+   "tytSosNet": -3.75,
+   "tytMatNet": 0.25,
+   "tytFenNet": 2.5,
+   "aytMatNet": 1,
+   "aytTdeNet": 5,
+   "aytTrh1Net": 0.5,
+   "aytCog1Net": 0
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 264.46,
+  "netler": {
+   "tytTrkNet": 30.25,
+   "tytSosNet": 11.25,
+   "tytMatNet": 8.5,
+   "tytFenNet": 1.25,
+   "aytMatNet": 7.5,
+   "aytTdeNet": 11.5,
+   "aytTrh1Net": 6.75,
+   "aytCog1Net": -0.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 282.83,
+  "netler": {
+   "tytTrkNet": 24.25,
+   "tytSosNet": 12,
+   "tytMatNet": 12.25,
+   "tytFenNet": 1.5,
+   "aytMatNet": 9.25,
+   "aytTdeNet": 16.5,
+   "aytTrh1Net": 6.5,
+   "aytCog1Net": -0.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 260.46,
+  "netler": {
+   "tytTrkNet": 26.75,
+   "tytSosNet": 7.25,
+   "tytMatNet": 10.75,
+   "tytFenNet": 3,
+   "aytMatNet": 2.25,
+   "aytTdeNet": 19.5,
+   "aytTrh1Net": 1.25,
+   "aytCog1Net": 1.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 204.86,
+  "netler": {
+   "tytTrkNet": 22.75,
+   "tytSosNet": 6.25,
+   "tytMatNet": 3.25,
+   "tytFenNet": 0,
+   "aytMatNet": 2.25,
+   "aytTdeNet": 5.5,
+   "aytTrh1Net": 2.75,
+   "aytCog1Net": 2.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 302.96,
+  "netler": {
+   "tytTrkNet": 30.25,
+   "tytSosNet": 15,
+   "tytMatNet": 14,
+   "tytFenNet": 4.75,
+   "aytMatNet": 7.25,
+   "aytTdeNet": 17.75,
+   "aytTrh1Net": 3,
+   "aytCog1Net": 4.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 132.1,
+  "netler": {
+   "tytTrkNet": 8.25,
+   "tytSosNet": 0.25,
+   "tytMatNet": -0.25,
+   "tytFenNet": 0.75,
+   "aytMatNet": -1.5,
+   "aytTdeNet": 5.75,
+   "aytTrh1Net": -1,
+   "aytCog1Net": 0.5
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 345.32,
+  "netler": {
+   "tytTrkNet": 28,
+   "tytSosNet": 17.5,
+   "tytMatNet": 18,
+   "tytFenNet": 9.25,
+   "aytMatNet": 13.75,
+   "aytTdeNet": 19.25,
+   "aytTrh1Net": 7.75,
+   "aytCog1Net": 3.5
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 216.57,
+  "netler": {
+   "tytTrkNet": 22,
+   "tytSosNet": 12.5,
+   "tytMatNet": 0,
+   "tytFenNet": -0.5,
+   "aytMatNet": 1,
+   "aytTdeNet": 10.25,
+   "aytTrh1Net": 2.5,
+   "aytCog1Net": 2.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 243.9,
+  "netler": {
+   "tytTrkNet": 24,
+   "tytSosNet": 13.75,
+   "tytMatNet": 5.25,
+   "tytFenNet": 1,
+   "aytMatNet": 3.75,
+   "aytTdeNet": 9,
+   "aytTrh1Net": 3.75,
+   "aytCog1Net": 4.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 193.25,
+  "netler": {
+   "tytTrkNet": 13.25,
+   "tytSosNet": 9.5,
+   "tytMatNet": 0.5,
+   "tytFenNet": -0.25,
+   "aytMatNet": 5,
+   "aytTdeNet": 5.5,
+   "aytTrh1Net": 1.75,
+   "aytCog1Net": 0.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 141.1,
+  "netler": {
+   "tytTrkNet": 3.75,
+   "tytSosNet": 1.25,
+   "tytMatNet": -1.5,
+   "tytFenNet": 0.5,
+   "aytMatNet": 3.75,
+   "aytTdeNet": 0.25,
+   "aytTrh1Net": 0,
+   "aytCog1Net": -1.5
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 446.51,
+  "netler": {
+   "tytTrkNet": 32.75,
+   "tytSosNet": 16.25,
+   "tytMatNet": 36.5,
+   "tytFenNet": 16.25,
+   "aytMatNet": 35.25,
+   "aytTdeNet": 19,
+   "aytTrh1Net": 7.5,
+   "aytCog1Net": 4.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 266.26,
+  "netler": {
+   "tytTrkNet": 30,
+   "tytSosNet": 13.75,
+   "tytMatNet": 13.25,
+   "tytFenNet": 0.75,
+   "aytMatNet": 3,
+   "aytTdeNet": 11.5,
+   "aytTrh1Net": 6.25,
+   "aytCog1Net": 2.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 263.44,
+  "netler": {
+   "tytTrkNet": 26.25,
+   "tytSosNet": 11.25,
+   "tytMatNet": 8.75,
+   "tytFenNet": 1.25,
+   "aytMatNet": 9.5,
+   "aytTdeNet": 14,
+   "aytTrh1Net": 1.5,
+   "aytCog1Net": 1
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 307.1,
+  "netler": {
+   "tytTrkNet": 24,
+   "tytSosNet": 15,
+   "tytMatNet": 16,
+   "tytFenNet": 1,
+   "aytMatNet": 16,
+   "aytTdeNet": 12.75,
+   "aytTrh1Net": 6.75,
+   "aytCog1Net": 2.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 330.88,
+  "netler": {
+   "tytTrkNet": 23.75,
+   "tytSosNet": 16.25,
+   "tytMatNet": 13,
+   "tytFenNet": 9.75,
+   "aytMatNet": 16.25,
+   "aytTdeNet": 17.75,
+   "aytTrh1Net": 7.5,
+   "aytCog1Net": 2.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 225.08,
+  "netler": {
+   "tytTrkNet": 21.75,
+   "tytSosNet": 11.25,
+   "tytMatNet": 5,
+   "tytFenNet": 1.75,
+   "aytMatNet": 4.25,
+   "aytTdeNet": 6.5,
+   "aytTrh1Net": 5,
+   "aytCog1Net": 1
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 249.02,
+  "netler": {
+   "tytTrkNet": 24.25,
+   "tytSosNet": 9.75,
+   "tytMatNet": 9.25,
+   "tytFenNet": 1,
+   "aytMatNet": 3.5,
+   "aytTdeNet": 14.5,
+   "aytTrh1Net": 0.75,
+   "aytCog1Net": 3.5
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 198.45,
+  "netler": {
+   "tytTrkNet": 15,
+   "tytSosNet": 8.5,
+   "tytMatNet": 4.25,
+   "tytFenNet": 5.25,
+   "aytMatNet": 0.75,
+   "aytTdeNet": 6.5,
+   "aytTrh1Net": 2.5,
+   "aytCog1Net": 0.5
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 175.53,
+  "netler": {
+   "tytTrkNet": 18,
+   "tytSosNet": 11.25,
+   "tytMatNet": 0.25,
+   "tytFenNet": 3.5,
+   "aytMatNet": 2.25,
+   "aytTdeNet": 0,
+   "aytTrh1Net": 0,
+   "aytCog1Net": 0
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 230.26,
+  "netler": {
+   "tytTrkNet": 18,
+   "tytSosNet": 12.5,
+   "tytMatNet": 5,
+   "tytFenNet": 0.75,
+   "aytMatNet": 0.5,
+   "aytTdeNet": 13,
+   "aytTrh1Net": 2.5,
+   "aytCog1Net": 3.5
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 298.68,
+  "netler": {
+   "tytTrkNet": 28.75,
+   "tytSosNet": 14,
+   "tytMatNet": 11,
+   "tytFenNet": 10.5,
+   "aytMatNet": 6.25,
+   "aytTdeNet": 15.25,
+   "aytTrh1Net": 7.75,
+   "aytCog1Net": 3
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 277.49,
+  "netler": {
+   "tytTrkNet": 23.5,
+   "tytSosNet": 11.75,
+   "tytMatNet": 10.25,
+   "tytFenNet": 4,
+   "aytMatNet": 11,
+   "aytTdeNet": 16,
+   "aytTrh1Net": 3.5,
+   "aytCog1Net": -0.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 305.61,
+  "netler": {
+   "tytTrkNet": 25,
+   "tytSosNet": 11.25,
+   "tytMatNet": 14.5,
+   "tytFenNet": 3.75,
+   "aytMatNet": 11,
+   "aytTdeNet": 19.25,
+   "aytTrh1Net": 6.75,
+   "aytCog1Net": 1
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 181.97,
+  "netler": {
+   "tytTrkNet": 17,
+   "tytSosNet": 7,
+   "tytMatNet": 9.25,
+   "tytFenNet": 4,
+   "aytMatNet": 2.25,
+   "aytTdeNet": 0,
+   "aytTrh1Net": 0,
+   "aytCog1Net": 0
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 180.85,
+  "netler": {
+   "tytTrkNet": 19.5,
+   "tytSosNet": 3.5,
+   "tytMatNet": -0.25,
+   "tytFenNet": 0,
+   "aytMatNet": -0.25,
+   "aytTdeNet": 5.75,
+   "aytTrh1Net": 1.75,
+   "aytCog1Net": 1.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 164.41,
+  "netler": {
+   "tytTrkNet": 13.25,
+   "tytSosNet": 1.75,
+   "tytMatNet": 0,
+   "tytFenNet": -0.5,
+   "aytMatNet": 1,
+   "aytTdeNet": 5,
+   "aytTrh1Net": 0,
+   "aytCog1Net": 0
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 213.72,
+  "netler": {
+   "tytTrkNet": 21,
+   "tytSosNet": 12.25,
+   "tytMatNet": -0.25,
+   "tytFenNet": 1.75,
+   "aytMatNet": 0.75,
+   "aytTdeNet": 8.75,
+   "aytTrh1Net": 1.5,
+   "aytCog1Net": 3.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 281.44,
+  "netler": {
+   "tytTrkNet": 28.25,
+   "tytSosNet": 11.25,
+   "tytMatNet": 14.75,
+   "tytFenNet": 0.75,
+   "aytMatNet": 11,
+   "aytTdeNet": 14.5,
+   "aytTrh1Net": 1.75,
+   "aytCog1Net": 1.5
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 144.55,
+  "netler": {
+   "tytTrkNet": 14,
+   "tytSosNet": 5.75,
+   "tytMatNet": -0.25,
+   "tytFenNet": 0.75,
+   "aytMatNet": 0,
+   "aytTdeNet": 3.75,
+   "aytTrh1Net": 1.5,
+   "aytCog1Net": -0.75
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 276.2,
+  "netler": {
+   "tytTrkNet": 22,
+   "tytSosNet": 13.25,
+   "tytMatNet": 9,
+   "tytFenNet": 8,
+   "aytMatNet": 8.25,
+   "aytTdeNet": 11.5,
+   "aytTrh1Net": 7.5,
+   "aytCog1Net": 2.25
+  }
+ },
+ {
+  "puanTuru": "EA",
+  "beklenen": 284.21,
+  "netler": {
+   "tytTrkNet": 25,
+   "tytSosNet": 12.5,
+   "tytMatNet": 10.5,
+   "tytFenNet": 4.5,
+   "aytMatNet": 6.25,
+   "aytTdeNet": 17.75,
+   "aytTrh1Net": 5,
+   "aytCog1Net": 2.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 272.4,
+  "netler": {
+   "tytTrkNet": 26.25,
+   "tytSosNet": 10,
+   "tytMatNet": 0,
+   "tytFenNet": 0.75,
+   "aytTdeNet": 11.5,
+   "aytTrh1Net": 5.25,
+   "aytCog1Net": 1,
+   "aytTrh2Net": 2.25,
+   "aytCog2Net": 4.75,
+   "aytFelNet": 5.75,
+   "aytDinNet": 4.75
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 137.91,
+  "netler": {
+   "tytTrkNet": 7.25,
+   "tytSosNet": 1.25,
+   "tytMatNet": 0.25,
+   "tytFenNet": 0.75,
+   "aytTdeNet": 1,
+   "aytTrh1Net": 0,
+   "aytCog1Net": 0.5,
+   "aytTrh2Net": -1.25,
+   "aytCog2Net": -0.75,
+   "aytFelNet": 0,
+   "aytDinNet": 0
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 259.09,
+  "netler": {
+   "tytTrkNet": 20.25,
+   "tytSosNet": 8.25,
+   "tytMatNet": 2.5,
+   "tytFenNet": 0.5,
+   "aytTdeNet": 9.5,
+   "aytTrh1Net": 3.25,
+   "aytCog1Net": 2.75,
+   "aytTrh2Net": 3,
+   "aytCog2Net": 5,
+   "aytFelNet": 5.75,
+   "aytDinNet": 2.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 198.23,
+  "netler": {
+   "tytTrkNet": 16,
+   "tytSosNet": 2.5,
+   "tytMatNet": -1,
+   "tytFenNet": 0,
+   "aytTdeNet": 5,
+   "aytTrh1Net": 2.5,
+   "aytCog1Net": 0.75,
+   "aytTrh2Net": 1.75,
+   "aytCog2Net": 3.25,
+   "aytFelNet": 3.25,
+   "aytDinNet": 0
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 301.62,
+  "netler": {
+   "tytTrkNet": 22,
+   "tytSosNet": 15,
+   "tytMatNet": 8.75,
+   "tytFenNet": 2.75,
+   "aytTdeNet": 11.75,
+   "aytTrh1Net": 8.75,
+   "aytCog1Net": 3.5,
+   "aytTrh2Net": 9,
+   "aytCog2Net": 7.5,
+   "aytFelNet": -0.25,
+   "aytDinNet": 0
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 187.99,
+  "netler": {
+   "tytTrkNet": 11.25,
+   "tytSosNet": 5,
+   "tytMatNet": 0.5,
+   "tytFenNet": 0,
+   "aytTdeNet": 7.75,
+   "aytTrh1Net": 2.5,
+   "aytCog1Net": 2.25,
+   "aytTrh2Net": 3.5,
+   "aytCog2Net": 2.25,
+   "aytFelNet": 4.5,
+   "aytDinNet": 1
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 341.48,
+  "netler": {
+   "tytTrkNet": 20,
+   "tytSosNet": 16.25,
+   "tytMatNet": -0.25,
+   "tytFenNet": 1,
+   "aytTdeNet": 21.5,
+   "aytTrh1Net": 8.75,
+   "aytCog1Net": 4.75,
+   "aytTrh2Net": 3.75,
+   "aytCog2Net": 8.5,
+   "aytFelNet": 8.5,
+   "aytDinNet": 3.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 274.42,
+  "netler": {
+   "tytTrkNet": 17,
+   "tytSosNet": 13.5,
+   "tytMatNet": -0.25,
+   "tytFenNet": -0.75,
+   "aytTdeNet": 6,
+   "aytTrh1Net": 6.5,
+   "aytCog1Net": 4.75,
+   "aytTrh2Net": 6.25,
+   "aytCog2Net": 6.5,
+   "aytFelNet": 5.25,
+   "aytDinNet": 2.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 351.12,
+  "netler": {
+   "tytTrkNet": 22.5,
+   "tytSosNet": 14,
+   "tytMatNet": 2.25,
+   "tytFenNet": 6.75,
+   "aytTdeNet": 16.5,
+   "aytTrh1Net": 8.75,
+   "aytCog1Net": 6,
+   "aytTrh2Net": 6.25,
+   "aytCog2Net": 11,
+   "aytFelNet": 7.25,
+   "aytDinNet": 3.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 147.66,
+  "netler": {
+   "tytTrkNet": 2.5,
+   "tytSosNet": 7.5,
+   "tytMatNet": -5,
+   "tytFenNet": 0,
+   "aytTdeNet": 1.5,
+   "aytTrh1Net": 3.75,
+   "aytCog1Net": -0.25,
+   "aytTrh2Net": -1.5,
+   "aytCog2Net": 2.25,
+   "aytFelNet": -0.5,
+   "aytDinNet": 1
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 166.09,
+  "netler": {
+   "tytTrkNet": 15.5,
+   "tytSosNet": 2.75,
+   "tytMatNet": 2.25,
+   "tytFenNet": 0.75,
+   "aytTdeNet": 4,
+   "aytTrh1Net": -1,
+   "aytCog1Net": -0.25,
+   "aytTrh2Net": 0.75,
+   "aytCog2Net": 2.75,
+   "aytFelNet": 3.25,
+   "aytDinNet": 1.25
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 237.56,
+  "netler": {
+   "tytTrkNet": 22.25,
+   "tytSosNet": 5,
+   "tytMatNet": -1,
+   "tytFenNet": 1,
+   "aytTdeNet": 11,
+   "aytTrh1Net": 5,
+   "aytCog1Net": 1.25,
+   "aytTrh2Net": 1.5,
+   "aytCog2Net": 6,
+   "aytFelNet": 1.25,
+   "aytDinNet": 2.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 371.75,
+  "netler": {
+   "tytTrkNet": 34.5,
+   "tytSosNet": 18,
+   "tytMatNet": 0,
+   "tytFenNet": 3,
+   "aytTdeNet": 19.5,
+   "aytTrh1Net": 9,
+   "aytCog1Net": 5,
+   "aytTrh2Net": 8.5,
+   "aytCog2Net": 8.75,
+   "aytFelNet": 6.25,
+   "aytDinNet": 5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 199.83,
+  "netler": {
+   "tytTrkNet": 17.25,
+   "tytSosNet": 6.25,
+   "tytMatNet": -3,
+   "tytFenNet": 2,
+   "aytTdeNet": 5.75,
+   "aytTrh1Net": 3.5,
+   "aytCog1Net": 0.5,
+   "aytTrh2Net": 0,
+   "aytCog2Net": 5,
+   "aytFelNet": 1.25,
+   "aytDinNet": 1
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 330.79,
+  "netler": {
+   "tytTrkNet": 30.5,
+   "tytSosNet": 16.25,
+   "tytMatNet": 6.5,
+   "tytFenNet": 0,
+   "aytTdeNet": 14.25,
+   "aytTrh1Net": 5.25,
+   "aytCog1Net": 3.75,
+   "aytTrh2Net": 6.25,
+   "aytCog2Net": 7.25,
+   "aytFelNet": 6.25,
+   "aytDinNet": 4.75
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 319.12,
+  "netler": {
+   "tytTrkNet": 26.5,
+   "tytSosNet": 13.75,
+   "tytMatNet": 3.75,
+   "tytFenNet": 0,
+   "aytTdeNet": 12.75,
+   "aytTrh1Net": 8.75,
+   "aytCog1Net": 1,
+   "aytTrh2Net": 6,
+   "aytCog2Net": 6,
+   "aytFelNet": 7.25,
+   "aytDinNet": 6
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 269.58,
+  "netler": {
+   "tytTrkNet": 11.25,
+   "tytSosNet": 9,
+   "tytMatNet": 0,
+   "tytFenNet": 0.5,
+   "aytTdeNet": 11.5,
+   "aytTrh1Net": 5,
+   "aytCog1Net": 3.5,
+   "aytTrh2Net": 6,
+   "aytCog2Net": 8.5,
+   "aytFelNet": 2,
+   "aytDinNet": 4.75
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 200.08,
+  "netler": {
+   "tytTrkNet": 23.75,
+   "tytSosNet": 7.5,
+   "tytMatNet": -0.25,
+   "tytFenNet": 0.25,
+   "aytTdeNet": 5.25,
+   "aytTrh1Net": 3.75,
+   "aytCog1Net": 0,
+   "aytTrh2Net": -1,
+   "aytCog2Net": 1,
+   "aytFelNet": 1.75,
+   "aytDinNet": 2.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 170.33,
+  "netler": {
+   "tytTrkNet": 11.5,
+   "tytSosNet": 1.75,
+   "tytMatNet": -0.25,
+   "tytFenNet": -0.75,
+   "aytTdeNet": 7,
+   "aytTrh1Net": -0.75,
+   "aytCog1Net": 0.5,
+   "aytTrh2Net": -1.5,
+   "aytCog2Net": 3.5,
+   "aytFelNet": 1.25,
+   "aytDinNet": 0
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 325.3,
+  "netler": {
+   "tytTrkNet": 28.25,
+   "tytSosNet": 10.25,
+   "tytMatNet": 6.25,
+   "tytFenNet": 2.75,
+   "aytTdeNet": 18,
+   "aytTrh1Net": 7.75,
+   "aytCog1Net": 5,
+   "aytTrh2Net": 5.25,
+   "aytCog2Net": 6,
+   "aytFelNet": 2.5,
+   "aytDinNet": 6
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 291.78,
+  "netler": {
+   "tytTrkNet": 22,
+   "tytSosNet": 13.25,
+   "tytMatNet": 5.25,
+   "tytFenNet": 0.75,
+   "aytTdeNet": 12.75,
+   "aytTrh1Net": 3.25,
+   "aytCog1Net": 2.5,
+   "aytTrh2Net": 3.25,
+   "aytCog2Net": 5.25,
+   "aytFelNet": 7.25,
+   "aytDinNet": 4.75
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 257.78,
+  "netler": {
+   "tytTrkNet": 20,
+   "tytSosNet": 11.5,
+   "tytMatNet": 8.25,
+   "tytFenNet": 2,
+   "aytTdeNet": 10.5,
+   "aytTrh1Net": 0.25,
+   "aytCog1Net": 0.25,
+   "aytTrh2Net": 3.5,
+   "aytCog2Net": 4.75,
+   "aytFelNet": 3.25,
+   "aytDinNet": 4.75
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 279.73,
+  "netler": {
+   "tytTrkNet": 26.25,
+   "tytSosNet": 9.75,
+   "tytMatNet": 0,
+   "tytFenNet": 0,
+   "aytTdeNet": 10.25,
+   "aytTrh1Net": 8,
+   "aytCog1Net": 4.75,
+   "aytTrh2Net": 2.25,
+   "aytCog2Net": 7.5,
+   "aytFelNet": 2.5,
+   "aytDinNet": 5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 130.16,
+  "netler": {
+   "tytTrkNet": 6,
+   "tytSosNet": 1.25,
+   "tytMatNet": -2.25,
+   "tytFenNet": -2.5,
+   "aytTdeNet": 0.25,
+   "aytTrh1Net": 0,
+   "aytCog1Net": 1.25,
+   "aytTrh2Net": -1.5,
+   "aytCog2Net": -0.25,
+   "aytFelNet": 0,
+   "aytDinNet": 0
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 280.92,
+  "netler": {
+   "tytTrkNet": 25.75,
+   "tytSosNet": 7.25,
+   "tytMatNet": 3,
+   "tytFenNet": 0.75,
+   "aytTdeNet": 20.25,
+   "aytTrh1Net": 2.75,
+   "aytCog1Net": 1.5,
+   "aytTrh2Net": 6.75,
+   "aytCog2Net": 4.75,
+   "aytFelNet": -0.25,
+   "aytDinNet": 2.25
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 186.72,
+  "netler": {
+   "tytTrkNet": 13.25,
+   "tytSosNet": 3.25,
+   "tytMatNet": 1.25,
+   "tytFenNet": 0.75,
+   "aytTdeNet": 0,
+   "aytTrh1Net": 1.25,
+   "aytCog1Net": 1.25,
+   "aytTrh2Net": 0.5,
+   "aytCog2Net": 6.5,
+   "aytFelNet": 1.5,
+   "aytDinNet": 2.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 213.34,
+  "netler": {
+   "tytTrkNet": 18.75,
+   "tytSosNet": 12.25,
+   "tytMatNet": 0,
+   "tytFenNet": 0.75,
+   "aytTdeNet": 2.5,
+   "aytTrh1Net": -0.25,
+   "aytCog1Net": 2.25,
+   "aytTrh2Net": 1,
+   "aytCog2Net": 3.75,
+   "aytFelNet": 2,
+   "aytDinNet": 6
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 204.13,
+  "netler": {
+   "tytTrkNet": 17.5,
+   "tytSosNet": 7,
+   "tytMatNet": -0.25,
+   "tytFenNet": 0,
+   "aytTdeNet": 5.5,
+   "aytTrh1Net": 0.5,
+   "aytCog1Net": 0.5,
+   "aytTrh2Net": 3.25,
+   "aytCog2Net": 4,
+   "aytFelNet": 1.75,
+   "aytDinNet": 0
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 348.47,
+  "netler": {
+   "tytTrkNet": 32.5,
+   "tytSosNet": 13.75,
+   "tytMatNet": 7.5,
+   "tytFenNet": 5.75,
+   "aytTdeNet": 18.5,
+   "aytTrh1Net": 6.25,
+   "aytCog1Net": 4.75,
+   "aytTrh2Net": 6,
+   "aytCog2Net": 7.25,
+   "aytFelNet": 5,
+   "aytDinNet": 4.75
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 327.62,
+  "netler": {
+   "tytTrkNet": 29,
+   "tytSosNet": 15,
+   "tytMatNet": -0.25,
+   "tytFenNet": 0,
+   "aytTdeNet": 14,
+   "aytTrh1Net": 7.5,
+   "aytCog1Net": 4.75,
+   "aytTrh2Net": 6,
+   "aytCog2Net": 6,
+   "aytFelNet": 8.5,
+   "aytDinNet": 3.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 225.76,
+  "netler": {
+   "tytTrkNet": 16.5,
+   "tytSosNet": 11.5,
+   "tytMatNet": 4.25,
+   "tytFenNet": 2,
+   "aytTdeNet": 3.5,
+   "aytTrh1Net": 0.5,
+   "aytCog1Net": 2.5,
+   "aytTrh2Net": 1.75,
+   "aytCog2Net": 2.75,
+   "aytFelNet": 5.25,
+   "aytDinNet": 2.25
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 209.44,
+  "netler": {
+   "tytTrkNet": 18.25,
+   "tytSosNet": 6.75,
+   "tytMatNet": -0.5,
+   "tytFenNet": -0.5,
+   "aytTdeNet": 1.5,
+   "aytTrh1Net": 2.5,
+   "aytCog1Net": 2.5,
+   "aytTrh2Net": 1.75,
+   "aytCog2Net": 1.5,
+   "aytFelNet": 5.25,
+   "aytDinNet": 2.25
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 360.55,
+  "netler": {
+   "tytTrkNet": 31.5,
+   "tytSosNet": 15,
+   "tytMatNet": 3.25,
+   "tytFenNet": 2,
+   "aytTdeNet": 19,
+   "aytTrh1Net": 10,
+   "aytCog1Net": 6,
+   "aytTrh2Net": 6.25,
+   "aytCog2Net": 7.5,
+   "aytFelNet": 5.75,
+   "aytDinNet": 6
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 198.8,
+  "netler": {
+   "tytTrkNet": 20,
+   "tytSosNet": 9,
+   "tytMatNet": 1.75,
+   "tytFenNet": -0.5,
+   "aytTdeNet": 3.5,
+   "aytTrh1Net": 0,
+   "aytCog1Net": 0,
+   "aytTrh2Net": 0.75,
+   "aytCog2Net": 3.25,
+   "aytFelNet": 2,
+   "aytDinNet": 2.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 242.5,
+  "netler": {
+   "tytTrkNet": 17.75,
+   "tytSosNet": 11.75,
+   "tytMatNet": -0.25,
+   "tytFenNet": 1,
+   "aytTdeNet": 9.25,
+   "aytTrh1Net": 2,
+   "aytCog1Net": 2.5,
+   "aytTrh2Net": 1.5,
+   "aytCog2Net": 6.25,
+   "aytFelNet": 2.25,
+   "aytDinNet": 4.75
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 183.87,
+  "netler": {
+   "tytTrkNet": 9.25,
+   "tytSosNet": 6.75,
+   "tytMatNet": 0,
+   "tytFenNet": 0,
+   "aytTdeNet": 0.5,
+   "aytTrh1Net": 0.5,
+   "aytCog1Net": 1,
+   "aytTrh2Net": 1.5,
+   "aytCog2Net": 2.5,
+   "aytFelNet": 2.75,
+   "aytDinNet": 3.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 287.55,
+  "netler": {
+   "tytTrkNet": 30,
+   "tytSosNet": 10,
+   "tytMatNet": 0,
+   "tytFenNet": 1,
+   "aytTdeNet": 7.75,
+   "aytTrh1Net": 6.5,
+   "aytCog1Net": 3,
+   "aytTrh2Net": 7.75,
+   "aytCog2Net": 7,
+   "aytFelNet": 3.5,
+   "aytDinNet": 2.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 337.64,
+  "netler": {
+   "tytTrkNet": 25.75,
+   "tytSosNet": 15,
+   "tytMatNet": -0.25,
+   "tytFenNet": 1,
+   "aytTdeNet": 16.5,
+   "aytTrh1Net": 8.75,
+   "aytCog1Net": 4.75,
+   "aytTrh2Net": 6.75,
+   "aytCog2Net": 9.75,
+   "aytFelNet": 6,
+   "aytDinNet": 3.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 238.62,
+  "netler": {
+   "tytTrkNet": 30,
+   "tytSosNet": 5.25,
+   "tytMatNet": 0,
+   "tytFenNet": -1.25,
+   "aytTdeNet": 8.75,
+   "aytTrh1Net": 3.75,
+   "aytCog1Net": 1.5,
+   "aytTrh2Net": -0.75,
+   "aytCog2Net": 8,
+   "aytFelNet": 2,
+   "aytDinNet": 3.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 409.58,
+  "netler": {
+   "tytTrkNet": 36.25,
+   "tytSosNet": 16.25,
+   "tytMatNet": 20.5,
+   "tytFenNet": 12.25,
+   "aytTdeNet": 17.75,
+   "aytTrh1Net": 10,
+   "aytCog1Net": 6,
+   "aytTrh2Net": 11,
+   "aytCog2Net": 8.75,
+   "aytFelNet": 3.5,
+   "aytDinNet": 6
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 196.21,
+  "netler": {
+   "tytTrkNet": 5,
+   "tytSosNet": 5,
+   "tytMatNet": 0,
+   "tytFenNet": 0,
+   "aytTdeNet": 4.5,
+   "aytTrh1Net": 1.25,
+   "aytCog1Net": 3.75,
+   "aytTrh2Net": 3.5,
+   "aytCog2Net": 6,
+   "aytFelNet": 0,
+   "aytDinNet": 0.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 198.32,
+  "netler": {
+   "tytTrkNet": 15.5,
+   "tytSosNet": 8.25,
+   "tytMatNet": 0,
+   "tytFenNet": 0,
+   "aytTdeNet": 2.5,
+   "aytTrh1Net": 3,
+   "aytCog1Net": 1.5,
+   "aytTrh2Net": -0.75,
+   "aytCog2Net": 5,
+   "aytFelNet": 3,
+   "aytDinNet": 1
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 288.1,
+  "netler": {
+   "tytTrkNet": 18,
+   "tytSosNet": 11.75,
+   "tytMatNet": 2,
+   "tytFenNet": 0,
+   "aytTdeNet": 13,
+   "aytTrh1Net": 5.25,
+   "aytCog1Net": 2.5,
+   "aytTrh2Net": 6.75,
+   "aytCog2Net": 1.5,
+   "aytFelNet": 6.75,
+   "aytDinNet": 4.75
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 315.67,
+  "netler": {
+   "tytTrkNet": 24.25,
+   "tytSosNet": 15.25,
+   "tytMatNet": 5,
+   "tytFenNet": 2.75,
+   "aytTdeNet": 14,
+   "aytTrh1Net": 8,
+   "aytCog1Net": 4.75,
+   "aytTrh2Net": 5.5,
+   "aytCog2Net": 6.25,
+   "aytFelNet": 4.75,
+   "aytDinNet": 2.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 261.51,
+  "netler": {
+   "tytTrkNet": 27,
+   "tytSosNet": 9.25,
+   "tytMatNet": 2.5,
+   "tytFenNet": 0,
+   "aytTdeNet": 10.5,
+   "aytTrh1Net": 4.5,
+   "aytCog1Net": 2.25,
+   "aytTrh2Net": 2.25,
+   "aytCog2Net": 7.25,
+   "aytFelNet": 1.5,
+   "aytDinNet": 3.75
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 287.2,
+  "netler": {
+   "tytTrkNet": 28.75,
+   "tytSosNet": 10,
+   "tytMatNet": 0,
+   "tytFenNet": 3,
+   "aytTdeNet": 11.5,
+   "aytTrh1Net": 2.5,
+   "aytCog1Net": 3.5,
+   "aytTrh2Net": 2.25,
+   "aytCog2Net": 6,
+   "aytFelNet": 8.25,
+   "aytDinNet": 3.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 218.4,
+  "netler": {
+   "tytTrkNet": 14.25,
+   "tytSosNet": 10,
+   "tytMatNet": -0.75,
+   "tytFenNet": 0.75,
+   "aytTdeNet": 2,
+   "aytTrh1Net": 5.5,
+   "aytCog1Net": 3.5,
+   "aytTrh2Net": 3.25,
+   "aytCog2Net": 8.5,
+   "aytFelNet": 0,
+   "aytDinNet": -0.25
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 293.91,
+  "netler": {
+   "tytTrkNet": 15.75,
+   "tytSosNet": 9,
+   "tytMatNet": 1,
+   "tytFenNet": 1.25,
+   "aytTdeNet": 16.5,
+   "aytTrh1Net": 3.75,
+   "aytCog1Net": 1.25,
+   "aytTrh2Net": 7.5,
+   "aytCog2Net": 4.75,
+   "aytFelNet": 7,
+   "aytDinNet": 3.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 230.06,
+  "netler": {
+   "tytTrkNet": 16,
+   "tytSosNet": 9.5,
+   "tytMatNet": 0.75,
+   "tytFenNet": 0.5,
+   "aytTdeNet": 9.75,
+   "aytTrh1Net": 2.25,
+   "aytCog1Net": 3.75,
+   "aytTrh2Net": 1.5,
+   "aytCog2Net": 3.75,
+   "aytFelNet": 3,
+   "aytDinNet": 0.25
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 209.56,
+  "netler": {
+   "tytTrkNet": 16.25,
+   "tytSosNet": 6.25,
+   "tytMatNet": -2,
+   "tytFenNet": 0,
+   "aytTdeNet": 8,
+   "aytTrh1Net": 2.5,
+   "aytCog1Net": 2.25,
+   "aytTrh2Net": 2.25,
+   "aytCog2Net": 3.5,
+   "aytFelNet": 0.75,
+   "aytDinNet": 1
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 253.57,
+  "netler": {
+   "tytTrkNet": 26.75,
+   "tytSosNet": 7.25,
+   "tytMatNet": 4.75,
+   "tytFenNet": 8.25,
+   "aytTdeNet": 6.5,
+   "aytTrh1Net": 2,
+   "aytCog1Net": 1,
+   "aytTrh2Net": 0.5,
+   "aytCog2Net": 3.75,
+   "aytFelNet": 6,
+   "aytDinNet": 4.75
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 172.29,
+  "netler": {
+   "tytTrkNet": 13.5,
+   "tytSosNet": 6.5,
+   "tytMatNet": 0.25,
+   "tytFenNet": 3.5,
+   "aytTdeNet": 1.75,
+   "aytTrh1Net": -0.5,
+   "aytCog1Net": 2.75,
+   "aytTrh2Net": -0.75,
+   "aytCog2Net": 7.5,
+   "aytFelNet": 2.25,
+   "aytDinNet": 1.25
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 241.86,
+  "netler": {
+   "tytTrkNet": 16.5,
+   "tytSosNet": 12.5,
+   "tytMatNet": -0.25,
+   "tytFenNet": 1,
+   "aytTdeNet": 4,
+   "aytTrh1Net": 5,
+   "aytCog1Net": 2.25,
+   "aytTrh2Net": 4.75,
+   "aytCog2Net": 7.25,
+   "aytFelNet": 2,
+   "aytDinNet": 2.25
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 210.75,
+  "netler": {
+   "tytTrkNet": 22.75,
+   "tytSosNet": 7.5,
+   "tytMatNet": -0.75,
+   "tytFenNet": 0,
+   "aytTdeNet": 7.25,
+   "aytTrh1Net": 3.5,
+   "aytCog1Net": 0.75,
+   "aytTrh2Net": -0.25,
+   "aytCog2Net": 2.25,
+   "aytFelNet": 3.25,
+   "aytDinNet": 0
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 280.27,
+  "netler": {
+   "tytTrkNet": 30,
+   "tytSosNet": 4.75,
+   "tytMatNet": 14.5,
+   "tytFenNet": 0,
+   "aytTdeNet": 12.75,
+   "aytTrh1Net": 5,
+   "aytCog1Net": 1,
+   "aytTrh2Net": 1.5,
+   "aytCog2Net": 3.5,
+   "aytFelNet": 5.75,
+   "aytDinNet": 2.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 297.79,
+  "netler": {
+   "tytTrkNet": 27.5,
+   "tytSosNet": 13.75,
+   "tytMatNet": 6,
+   "tytFenNet": -0.5,
+   "aytTdeNet": 16.5,
+   "aytTrh1Net": 6.25,
+   "aytCog1Net": 1.5,
+   "aytTrh2Net": 1.25,
+   "aytCog2Net": 6.25,
+   "aytFelNet": 4.5,
+   "aytDinNet": 4.75
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 111.78,
+  "netler": {
+   "tytTrkNet": 7.25,
+   "tytSosNet": 2.75,
+   "tytMatNet": -3.5,
+   "tytFenNet": -2.5,
+   "aytTdeNet": -0.75,
+   "aytTrh1Net": -0.5,
+   "aytCog1Net": -0.75,
+   "aytTrh2Net": 0.25,
+   "aytCog2Net": 1.5,
+   "aytFelNet": 0.5,
+   "aytDinNet": -0.75
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 313.29,
+  "netler": {
+   "tytTrkNet": 26.75,
+   "tytSosNet": 15,
+   "tytMatNet": 8,
+   "tytFenNet": 4,
+   "aytTdeNet": 11.5,
+   "aytTrh1Net": 3.75,
+   "aytCog1Net": 6,
+   "aytTrh2Net": 3.5,
+   "aytCog2Net": 7.25,
+   "aytFelNet": 7.25,
+   "aytDinNet": 2.25
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 241.59,
+  "netler": {
+   "tytTrkNet": 24.5,
+   "tytSosNet": 9.25,
+   "tytMatNet": 11,
+   "tytFenNet": 1.5,
+   "aytTdeNet": 7.5,
+   "aytTrh1Net": 2.5,
+   "aytCog1Net": -0.25,
+   "aytTrh2Net": 1.25,
+   "aytCog2Net": 3,
+   "aytFelNet": 4.25,
+   "aytDinNet": 1.25
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 271.21,
+  "netler": {
+   "tytTrkNet": 26.75,
+   "tytSosNet": 12.5,
+   "tytMatNet": 1.5,
+   "tytFenNet": 1,
+   "aytTdeNet": 11.5,
+   "aytTrh1Net": 1.25,
+   "aytCog1Net": 1,
+   "aytTrh2Net": 0,
+   "aytCog2Net": 9.75,
+   "aytFelNet": 7,
+   "aytDinNet": 2.25
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 322.46,
+  "netler": {
+   "tytTrkNet": 29.5,
+   "tytSosNet": 13.25,
+   "tytMatNet": 12.5,
+   "tytFenNet": 4,
+   "aytTdeNet": 13.25,
+   "aytTrh1Net": 4.75,
+   "aytCog1Net": 3.5,
+   "aytTrh2Net": 4.5,
+   "aytCog2Net": 5.5,
+   "aytFelNet": 5.5,
+   "aytDinNet": 6
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 226.7,
+  "netler": {
+   "tytTrkNet": 23.25,
+   "tytSosNet": 11.25,
+   "tytMatNet": 0.75,
+   "tytFenNet": 5.75,
+   "aytTdeNet": 8,
+   "aytTrh1Net": 3,
+   "aytCog1Net": 3.5,
+   "aytTrh2Net": 2.25,
+   "aytCog2Net": 7.25,
+   "aytFelNet": 0.5,
+   "aytDinNet": 2.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 339.41,
+  "netler": {
+   "tytTrkNet": 31.5,
+   "tytSosNet": 16.25,
+   "tytMatNet": 0.5,
+   "tytFenNet": 4.75,
+   "aytTdeNet": 12.5,
+   "aytTrh1Net": 6.25,
+   "aytCog1Net": 3.5,
+   "aytTrh2Net": 8.5,
+   "aytCog2Net": 6.25,
+   "aytFelNet": 7.5,
+   "aytDinNet": 6
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 252.09,
+  "netler": {
+   "tytTrkNet": 23.75,
+   "tytSosNet": 8.75,
+   "tytMatNet": 4,
+   "tytFenNet": 0.25,
+   "aytTdeNet": 4,
+   "aytTrh1Net": 5,
+   "aytCog1Net": 2.25,
+   "aytTrh2Net": 3.5,
+   "aytCog2Net": 7.25,
+   "aytFelNet": 4.5,
+   "aytDinNet": 1
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 146.56,
+  "netler": {
+   "tytTrkNet": 6.5,
+   "tytSosNet": -1.25,
+   "tytMatNet": -0.5,
+   "tytFenNet": 0.75,
+   "aytTdeNet": 4,
+   "aytTrh1Net": -1,
+   "aytCog1Net": 0.5,
+   "aytTrh2Net": -0.75,
+   "aytCog2Net": 1.75,
+   "aytFelNet": 0,
+   "aytDinNet": -0.25
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 316.97,
+  "netler": {
+   "tytTrkNet": 27.75,
+   "tytSosNet": 15,
+   "tytMatNet": 5.5,
+   "tytFenNet": 3,
+   "aytTdeNet": 16.75,
+   "aytTrh1Net": 3.75,
+   "aytCog1Net": 2.25,
+   "aytTrh2Net": 3.5,
+   "aytCog2Net": 9.75,
+   "aytFelNet": 4.5,
+   "aytDinNet": 5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 162.22,
+  "netler": {
+   "tytTrkNet": 12.75,
+   "tytSosNet": 2.75,
+   "tytMatNet": -2.25,
+   "tytFenNet": -0.75,
+   "aytTdeNet": 2.75,
+   "aytTrh1Net": 0,
+   "aytCog1Net": -0.25,
+   "aytTrh2Net": 0.5,
+   "aytCog2Net": -1.25,
+   "aytFelNet": 2,
+   "aytDinNet": 2.25
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 353.04,
+  "netler": {
+   "tytTrkNet": 28.75,
+   "tytSosNet": 13.75,
+   "tytMatNet": 7.25,
+   "tytFenNet": 4.5,
+   "aytTdeNet": 15.25,
+   "aytTrh1Net": 6.25,
+   "aytCog1Net": 2.25,
+   "aytTrh2Net": 9.75,
+   "aytCog2Net": 9.75,
+   "aytFelNet": 5.75,
+   "aytDinNet": 6
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 311.09,
+  "netler": {
+   "tytTrkNet": 25.5,
+   "tytSosNet": 10,
+   "tytMatNet": 9.25,
+   "tytFenNet": 0,
+   "aytTdeNet": 14.25,
+   "aytTrh1Net": 5,
+   "aytCog1Net": 1.25,
+   "aytTrh2Net": 4,
+   "aytCog2Net": 8.75,
+   "aytFelNet": 6,
+   "aytDinNet": 6
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 289.94,
+  "netler": {
+   "tytTrkNet": 20.5,
+   "tytSosNet": 13.75,
+   "tytMatNet": 0,
+   "tytFenNet": 0.75,
+   "aytTdeNet": 13,
+   "aytTrh1Net": 5.5,
+   "aytCog1Net": 4.75,
+   "aytTrh2Net": 5.25,
+   "aytCog2Net": 6.25,
+   "aytFelNet": 3.75,
+   "aytDinNet": 3.5
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 267.52,
+  "netler": {
+   "tytTrkNet": 10.25,
+   "tytSosNet": 5.25,
+   "tytMatNet": 8.5,
+   "tytFenNet": 8.25,
+   "aytTdeNet": 8,
+   "aytTrh1Net": 6.5,
+   "aytCog1Net": 2.25,
+   "aytTrh2Net": 6,
+   "aytCog2Net": 8.5,
+   "aytFelNet": 2,
+   "aytDinNet": 2.25
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 201.4,
+  "netler": {
+   "tytTrkNet": 11.25,
+   "tytSosNet": 5.25,
+   "tytMatNet": -0.5,
+   "tytFenNet": -0.5,
+   "aytTdeNet": -0.5,
+   "aytTrh1Net": 4.5,
+   "aytCog1Net": 2.75,
+   "aytTrh2Net": 1.75,
+   "aytCog2Net": 6.25,
+   "aytFelNet": 0.25,
+   "aytDinNet": 6
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 161.05,
+  "netler": {
+   "tytTrkNet": 4.25,
+   "tytSosNet": 6.25,
+   "tytMatNet": -2.25,
+   "tytFenNet": 1.75,
+   "aytTdeNet": 1.5,
+   "aytTrh1Net": -1.5,
+   "aytCog1Net": 2,
+   "aytTrh2Net": 1.75,
+   "aytCog2Net": 2.5,
+   "aytFelNet": -1,
+   "aytDinNet": 2.25
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 203.3,
+  "netler": {
+   "tytTrkNet": 14,
+   "tytSosNet": 9.75,
+   "tytMatNet": -0.75,
+   "tytFenNet": 3.25,
+   "aytTdeNet": 4.75,
+   "aytTrh1Net": 2.5,
+   "aytCog1Net": 2.25,
+   "aytTrh2Net": 0.75,
+   "aytCog2Net": 5,
+   "aytFelNet": 0.75,
+   "aytDinNet": 0.25
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 358.12,
+  "netler": {
+   "tytTrkNet": 30.5,
+   "tytSosNet": 15.25,
+   "tytMatNet": 7.25,
+   "tytFenNet": 1,
+   "aytTdeNet": 19,
+   "aytTrh1Net": 8.75,
+   "aytCog1Net": 4.75,
+   "aytTrh2Net": 8.75,
+   "aytCog2Net": 10,
+   "aytFelNet": 2.5,
+   "aytDinNet": 4.75
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 183.45,
+  "netler": {
+   "tytTrkNet": 10.5,
+   "tytSosNet": 7.75,
+   "tytMatNet": 0,
+   "tytFenNet": -0.25,
+   "aytTdeNet": 1.25,
+   "aytTrh1Net": 0.5,
+   "aytCog1Net": -0.25,
+   "aytTrh2Net": 1.25,
+   "aytCog2Net": 3.75,
+   "aytFelNet": 1,
+   "aytDinNet": 4.75
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 247.28,
+  "netler": {
+   "tytTrkNet": 29.5,
+   "tytSosNet": 8.25,
+   "tytMatNet": 1,
+   "tytFenNet": 4.5,
+   "aytTdeNet": 7.5,
+   "aytTrh1Net": 1,
+   "aytCog1Net": 0.75,
+   "aytTrh2Net": 2.75,
+   "aytCog2Net": 3.25,
+   "aytFelNet": 4.25,
+   "aytDinNet": 3.75
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 197.77,
+  "netler": {
+   "tytTrkNet": 17,
+   "tytSosNet": 6.5,
+   "tytMatNet": 0,
+   "tytFenNet": 0,
+   "aytTdeNet": 3.5,
+   "aytTrh1Net": 0.5,
+   "aytCog1Net": 1,
+   "aytTrh2Net": 1.5,
+   "aytCog2Net": -0.25,
+   "aytFelNet": 4.25,
+   "aytDinNet": 2.75
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 333.79,
+  "netler": {
+   "tytTrkNet": 29.5,
+   "tytSosNet": 12.5,
+   "tytMatNet": 8.75,
+   "tytFenNet": 6.75,
+   "aytTdeNet": 14,
+   "aytTrh1Net": 7.5,
+   "aytCog1Net": 5,
+   "aytTrh2Net": 4.75,
+   "aytCog2Net": 3.5,
+   "aytFelNet": 7,
+   "aytDinNet": 6
+  }
+ },
+ {
+  "puanTuru": "SÖZ",
+  "beklenen": 297.13,
+  "netler": {
+   "tytTrkNet": 33.25,
+   "tytSosNet": 13,
+   "tytMatNet": 1.5,
+   "tytFenNet": 1,
+   "aytTdeNet": 13,
+   "aytTrh1Net": 5,
+   "aytCog1Net": 1.5,
+   "aytTrh2Net": 4,
+   "aytCog2Net": 4,
+   "aytFelNet": 7.5,
+   "aytDinNet": 2.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 389.51,
+  "netler": {
+   "tytTrkNet": 35,
+   "tytSosNet": 13.25,
+   "tytMatNet": 1.25,
+   "tytFenNet": 6,
+   "ydtYdilNet": 76.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 347.52,
+  "netler": {
+   "tytTrkNet": 23.5,
+   "tytSosNet": 9.5,
+   "tytMatNet": 3.25,
+   "tytFenNet": -0.5,
+   "ydtYdilNet": 71.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 326.76,
+  "netler": {
+   "tytTrkNet": 31.25,
+   "tytSosNet": 17.5,
+   "tytMatNet": 3.5,
+   "tytFenNet": 1.5,
+   "ydtYdilNet": 52.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 319.06,
+  "netler": {
+   "tytTrkNet": 32.5,
+   "tytSosNet": 16.75,
+   "tytMatNet": 10.25,
+   "tytFenNet": 2.75,
+   "ydtYdilNet": 44
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 138.45,
+  "netler": {
+   "tytTrkNet": 7.75,
+   "tytSosNet": 2,
+   "tytMatNet": 2.5,
+   "tytFenNet": 0,
+   "ydtYdilNet": 5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 368.14,
+  "netler": {
+   "tytTrkNet": 32.75,
+   "tytSosNet": 13,
+   "tytMatNet": 8,
+   "tytFenNet": 2,
+   "ydtYdilNet": 67
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 275.4,
+  "netler": {
+   "tytTrkNet": 27.5,
+   "tytSosNet": 10,
+   "tytMatNet": -1.25,
+   "tytFenNet": 0.75,
+   "ydtYdilNet": 43.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 377.13,
+  "netler": {
+   "tytTrkNet": 32,
+   "tytSosNet": 15,
+   "tytMatNet": 8,
+   "tytFenNet": 3.25,
+   "ydtYdilNet": 69
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 353.12,
+  "netler": {
+   "tytTrkNet": 28,
+   "tytSosNet": 9.25,
+   "tytMatNet": 0.25,
+   "tytFenNet": 2.75,
+   "ydtYdilNet": 71.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 431.83,
+  "netler": {
+   "tytTrkNet": 36,
+   "tytSosNet": 11,
+   "tytMatNet": 25.25,
+   "tytFenNet": 18.75,
+   "ydtYdilNet": 70.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 313.95,
+  "netler": {
+   "tytTrkNet": 26.75,
+   "tytSosNet": 15.25,
+   "tytMatNet": 3,
+   "tytFenNet": 0,
+   "ydtYdilNet": 52.75
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 172.67,
+  "netler": {
+   "tytTrkNet": 15.5,
+   "tytSosNet": 7.75,
+   "tytMatNet": 2,
+   "tytFenNet": 1.5,
+   "ydtYdilNet": 8.75
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 245.72,
+  "netler": {
+   "tytTrkNet": 21.5,
+   "tytSosNet": 6.25,
+   "tytMatNet": -1,
+   "tytFenNet": 1.75,
+   "ydtYdilNet": 37
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 104.54,
+  "netler": {
+   "tytTrkNet": 4.25,
+   "tytSosNet": 4.5,
+   "tytMatNet": 3.25,
+   "tytFenNet": 0.5,
+   "ydtYdilNet": 2.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 281.45,
+  "netler": {
+   "tytTrkNet": 23.75,
+   "tytSosNet": 11.25,
+   "tytMatNet": 2.25,
+   "tytFenNet": 0.5,
+   "ydtYdilNet": 44.75
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 315.41,
+  "netler": {
+   "tytTrkNet": 31.25,
+   "tytSosNet": 16.25,
+   "tytMatNet": 10,
+   "tytFenNet": 5.25,
+   "ydtYdilNet": 42.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 353.06,
+  "netler": {
+   "tytTrkNet": 33.75,
+   "tytSosNet": 14,
+   "tytMatNet": 6.75,
+   "tytFenNet": 0.75,
+   "ydtYdilNet": 61.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 300.92,
+  "netler": {
+   "tytTrkNet": 23.75,
+   "tytSosNet": 7.5,
+   "tytMatNet": 4,
+   "tytFenNet": 0.75,
+   "ydtYdilNet": 53.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 377.12,
+  "netler": {
+   "tytTrkNet": 32,
+   "tytSosNet": 9,
+   "tytMatNet": 10.75,
+   "tytFenNet": 12,
+   "ydtYdilNet": 66.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 259.21,
+  "netler": {
+   "tytTrkNet": 25,
+   "tytSosNet": 13,
+   "tytMatNet": 0,
+   "tytFenNet": 4.75,
+   "ydtYdilNet": 32.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 115.39,
+  "netler": {
+   "tytTrkNet": 0,
+   "tytSosNet": -1,
+   "tytMatNet": 4,
+   "tytFenNet": -2.5,
+   "ydtYdilNet": 11.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 372.34,
+  "netler": {
+   "tytTrkNet": 33.75,
+   "tytSosNet": 16.25,
+   "tytMatNet": 10.75,
+   "tytFenNet": 7,
+   "ydtYdilNet": 61.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 360.89,
+  "netler": {
+   "tytTrkNet": 27.5,
+   "tytSosNet": 13.75,
+   "tytMatNet": 2.5,
+   "tytFenNet": 0.75,
+   "ydtYdilNet": 71.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 201.76,
+  "netler": {
+   "tytTrkNet": 14.75,
+   "tytSosNet": 10.75,
+   "tytMatNet": 1,
+   "tytFenNet": 2.5,
+   "ydtYdilNet": 19.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 344.19,
+  "netler": {
+   "tytTrkNet": 30,
+   "tytSosNet": 11.5,
+   "tytMatNet": 11.5,
+   "tytFenNet": 0,
+   "ydtYdilNet": 59
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 150.14,
+  "netler": {
+   "tytTrkNet": 2.5,
+   "tytSosNet": 1.5,
+   "tytMatNet": 0,
+   "tytFenNet": -0.75,
+   "ydtYdilNet": 15
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 418.75,
+  "netler": {
+   "tytTrkNet": 33.75,
+   "tytSosNet": 18.75,
+   "tytMatNet": 13.5,
+   "tytFenNet": 8.75,
+   "ydtYdilNet": 75
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 281.27,
+  "netler": {
+   "tytTrkNet": 31.25,
+   "tytSosNet": 11.5,
+   "tytMatNet": -0.5,
+   "tytFenNet": 0,
+   "ydtYdilNet": 42.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 117.37,
+  "netler": {
+   "tytTrkNet": 14.25,
+   "tytSosNet": 5.5,
+   "tytMatNet": -0.75,
+   "tytFenNet": 0.75,
+   "ydtYdilNet": 1.75
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 408.02,
+  "netler": {
+   "tytTrkNet": 35,
+   "tytSosNet": 11.25,
+   "tytMatNet": 13.5,
+   "tytFenNet": 6,
+   "ydtYdilNet": 76.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 273.57,
+  "netler": {
+   "tytTrkNet": 26.5,
+   "tytSosNet": 12,
+   "tytMatNet": 0,
+   "tytFenNet": 2.25,
+   "ydtYdilNet": 40.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 263.85,
+  "netler": {
+   "tytTrkNet": 26.25,
+   "tytSosNet": 4.25,
+   "tytMatNet": 4.75,
+   "tytFenNet": 1.75,
+   "ydtYdilNet": 38.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 394.58,
+  "netler": {
+   "tytTrkNet": 30.5,
+   "tytSosNet": 13,
+   "tytMatNet": 11,
+   "tytFenNet": 0,
+   "ydtYdilNet": 77.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 181.05,
+  "netler": {
+   "tytTrkNet": 10.25,
+   "tytSosNet": 2.75,
+   "tytMatNet": 0,
+   "tytFenNet": 0,
+   "ydtYdilNet": 21.75
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 154.92,
+  "netler": {
+   "tytTrkNet": 17,
+   "tytSosNet": 5.5,
+   "tytMatNet": 1,
+   "tytFenNet": -0.5,
+   "ydtYdilNet": 5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 407.69,
+  "netler": {
+   "tytTrkNet": 31.25,
+   "tytSosNet": 17.5,
+   "tytMatNet": 18.5,
+   "tytFenNet": 7,
+   "ydtYdilNet": 70.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 157.17,
+  "netler": {
+   "tytTrkNet": 17.25,
+   "tytSosNet": 5.5,
+   "tytMatNet": 3.5,
+   "tytFenNet": 0,
+   "ydtYdilNet": 3.75
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 251.96,
+  "netler": {
+   "tytTrkNet": 27.75,
+   "tytSosNet": 7.5,
+   "tytMatNet": 0.75,
+   "tytFenNet": 1.75,
+   "ydtYdilNet": 33.75
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 304.22,
+  "netler": {
+   "tytTrkNet": 26,
+   "tytSosNet": 13.5,
+   "tytMatNet": 2.25,
+   "tytFenNet": 6.75,
+   "ydtYdilNet": 47.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 128.48,
+  "netler": {
+   "tytTrkNet": 6.25,
+   "tytSosNet": 0,
+   "tytMatNet": 0,
+   "tytFenNet": 0,
+   "ydtYdilNet": 5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 156.48,
+  "netler": {
+   "tytTrkNet": 18.75,
+   "tytSosNet": 7.75,
+   "tytMatNet": 0.5,
+   "tytFenNet": 0,
+   "ydtYdilNet": 3.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 322.88,
+  "netler": {
+   "tytTrkNet": 20,
+   "tytSosNet": 11.5,
+   "tytMatNet": 14.25,
+   "tytFenNet": 12,
+   "ydtYdilNet": 48.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 274.48,
+  "netler": {
+   "tytTrkNet": 24.25,
+   "tytSosNet": 2.5,
+   "tytMatNet": 16.5,
+   "tytFenNet": 0,
+   "ydtYdilNet": 37.75
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 168.43,
+  "netler": {
+   "tytTrkNet": 10,
+   "tytSosNet": 6.5,
+   "tytMatNet": 2.25,
+   "tytFenNet": 2.5,
+   "ydtYdilNet": 12.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 370.53,
+  "netler": {
+   "tytTrkNet": 30.5,
+   "tytSosNet": 12.75,
+   "tytMatNet": 9.75,
+   "tytFenNet": 10,
+   "ydtYdilNet": 64
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 99.07,
+  "netler": {
+   "tytTrkNet": 1.25,
+   "tytSosNet": -1.25,
+   "tytMatNet": 0,
+   "tytFenNet": 2.75,
+   "ydtYdilNet": 4.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 117.14,
+  "netler": {
+   "tytTrkNet": 2.75,
+   "tytSosNet": 3.25,
+   "tytMatNet": 0,
+   "tytFenNet": 0,
+   "ydtYdilNet": 3
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 187.42,
+  "netler": {
+   "tytTrkNet": 21,
+   "tytSosNet": 11.75,
+   "tytMatNet": 0.75,
+   "tytFenNet": 1.75,
+   "ydtYdilNet": 10.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 294.8,
+  "netler": {
+   "tytTrkNet": 26.75,
+   "tytSosNet": 15.5,
+   "tytMatNet": 1.5,
+   "tytFenNet": 0,
+   "ydtYdilNet": 46.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 358.6,
+  "netler": {
+   "tytTrkNet": 32.75,
+   "tytSosNet": 12.75,
+   "tytMatNet": 9.25,
+   "tytFenNet": 2.25,
+   "ydtYdilNet": 62.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 351.82,
+  "netler": {
+   "tytTrkNet": 27.5,
+   "tytSosNet": 10,
+   "tytMatNet": 12,
+   "tytFenNet": 0,
+   "ydtYdilNet": 64
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 285.08,
+  "netler": {
+   "tytTrkNet": 23,
+   "tytSosNet": 6.75,
+   "tytMatNet": 6.75,
+   "tytFenNet": 3,
+   "ydtYdilNet": 45
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 276.32,
+  "netler": {
+   "tytTrkNet": 21.75,
+   "tytSosNet": 9.25,
+   "tytMatNet": 0.25,
+   "tytFenNet": 3,
+   "ydtYdilNet": 45.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 185.45,
+  "netler": {
+   "tytTrkNet": 11,
+   "tytSosNet": 1.75,
+   "tytMatNet": 0,
+   "tytFenNet": 0,
+   "ydtYdilNet": 23.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 345.63,
+  "netler": {
+   "tytTrkNet": 28.75,
+   "tytSosNet": 7.5,
+   "tytMatNet": 8.25,
+   "tytFenNet": 0,
+   "ydtYdilNet": 65
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 259.85,
+  "netler": {
+   "tytTrkNet": 24,
+   "tytSosNet": 8.5,
+   "tytMatNet": 9.25,
+   "tytFenNet": -0.5,
+   "ydtYdilNet": 33.75
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 224.05,
+  "netler": {
+   "tytTrkNet": 25.5,
+   "tytSosNet": 12,
+   "tytMatNet": 3.25,
+   "tytFenNet": 0,
+   "ydtYdilNet": 20.75
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 370.14,
+  "netler": {
+   "tytTrkNet": 31,
+   "tytSosNet": 15,
+   "tytMatNet": 3.5,
+   "tytFenNet": 7,
+   "ydtYdilNet": 68
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 323.04,
+  "netler": {
+   "tytTrkNet": 27.5,
+   "tytSosNet": 10,
+   "tytMatNet": 5.5,
+   "tytFenNet": 4.5,
+   "ydtYdilNet": 55
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 392.95,
+  "netler": {
+   "tytTrkNet": 31.25,
+   "tytSosNet": 11.5,
+   "tytMatNet": 12.25,
+   "tytFenNet": 5.25,
+   "ydtYdilNet": 73.75
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 121.28,
+  "netler": {
+   "tytTrkNet": 11.5,
+   "tytSosNet": 7.5,
+   "tytMatNet": -0.25,
+   "tytFenNet": 0,
+   "ydtYdilNet": 3.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 368.42,
+  "netler": {
+   "tytTrkNet": 31.25,
+   "tytSosNet": 12.5,
+   "tytMatNet": 6,
+   "tytFenNet": 3.75,
+   "ydtYdilNet": 68.75
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 325.48,
+  "netler": {
+   "tytTrkNet": 28.5,
+   "tytSosNet": 16.75,
+   "tytMatNet": 2.75,
+   "tytFenNet": 0.75,
+   "ydtYdilNet": 55
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 393.09,
+  "netler": {
+   "tytTrkNet": 22.5,
+   "tytSosNet": 14.25,
+   "tytMatNet": 14,
+   "tytFenNet": 12,
+   "ydtYdilNet": 72.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 339.42,
+  "netler": {
+   "tytTrkNet": 31,
+   "tytSosNet": 14,
+   "tytMatNet": 4.5,
+   "tytFenNet": 2,
+   "ydtYdilNet": 58.75
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 137.54,
+  "netler": {
+   "tytTrkNet": 11.5,
+   "tytSosNet": 5.25,
+   "tytMatNet": -1,
+   "tytFenNet": -0.25,
+   "ydtYdilNet": 4.75
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 348.51,
+  "netler": {
+   "tytTrkNet": 28.5,
+   "tytSosNet": 12.5,
+   "tytMatNet": 7.5,
+   "tytFenNet": 10.75,
+   "ydtYdilNet": 58
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 407.61,
+  "netler": {
+   "tytTrkNet": 35,
+   "tytSosNet": 13.75,
+   "tytMatNet": 5.5,
+   "tytFenNet": 10.75,
+   "ydtYdilNet": 77.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 347.46,
+  "netler": {
+   "tytTrkNet": 28.5,
+   "tytSosNet": 13.5,
+   "tytMatNet": 0,
+   "tytFenNet": 0,
+   "ydtYdilNet": 67.75
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 167.22,
+  "netler": {
+   "tytTrkNet": 8,
+   "tytSosNet": 3.5,
+   "tytMatNet": 1.75,
+   "tytFenNet": 0,
+   "ydtYdilNet": 15.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 368.41,
+  "netler": {
+   "tytTrkNet": 32.75,
+   "tytSosNet": 14,
+   "tytMatNet": 7.75,
+   "tytFenNet": 8,
+   "ydtYdilNet": 63.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 309.28,
+  "netler": {
+   "tytTrkNet": 27.75,
+   "tytSosNet": 10,
+   "tytMatNet": 1,
+   "tytFenNet": 4.75,
+   "ydtYdilNet": 52.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 360.04,
+  "netler": {
+   "tytTrkNet": 28,
+   "tytSosNet": 9.25,
+   "tytMatNet": 6.75,
+   "tytFenNet": 1.75,
+   "ydtYdilNet": 70
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 254.75,
+  "netler": {
+   "tytTrkNet": 23,
+   "tytSosNet": 9.25,
+   "tytMatNet": 16.75,
+   "tytFenNet": 3.75,
+   "ydtYdilNet": 34
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 228.02,
+  "netler": {
+   "tytTrkNet": 22,
+   "tytSosNet": 9.75,
+   "tytMatNet": 2.75,
+   "tytFenNet": 3,
+   "ydtYdilNet": 24.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 152.29,
+  "netler": {
+   "tytTrkNet": 18,
+   "tytSosNet": 2.25,
+   "tytMatNet": 0.5,
+   "tytFenNet": 0,
+   "ydtYdilNet": 5.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 356.81,
+  "netler": {
+   "tytTrkNet": 35,
+   "tytSosNet": 7.5,
+   "tytMatNet": 5.5,
+   "tytFenNet": 0,
+   "ydtYdilNet": 67.5
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 219.12,
+  "netler": {
+   "tytTrkNet": 29.25,
+   "tytSosNet": 5.5,
+   "tytMatNet": -1.5,
+   "tytFenNet": 2.25,
+   "ydtYdilNet": 22.75
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 312.61,
+  "netler": {
+   "tytTrkNet": 32.5,
+   "tytSosNet": 16.25,
+   "tytMatNet": 8.75,
+   "tytFenNet": 2,
+   "ydtYdilNet": 43.25
+  }
+ },
+ {
+  "puanTuru": "DİL",
+  "beklenen": 221.18,
+  "netler": {
+   "tytTrkNet": 3.75,
+   "tytSosNet": 4.75,
+   "tytMatNet": 1.25,
+   "tytFenNet": 3,
+   "ydtYdilNet": 36.75
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 289.28,
+  "netler": {
+   "tytTrkNet": 27.25,
+   "tytSosNet": 8.75,
+   "tytMatNet": 9.5,
+   "tytFenNet": 3.75
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 240.07,
+  "netler": {
+   "tytTrkNet": 19.75,
+   "tytSosNet": 4,
+   "tytMatNet": 6.25,
+   "tytFenNet": 2.5
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 258,
+  "netler": {
+   "tytTrkNet": 19.25,
+   "tytSosNet": 12.5,
+   "tytMatNet": 5.75,
+   "tytFenNet": 0.75
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 289.97,
+  "netler": {
+   "tytTrkNet": 22,
+   "tytSosNet": 7,
+   "tytMatNet": 12.75,
+   "tytFenNet": 7.75
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 264.7,
+  "netler": {
+   "tytTrkNet": 24.25,
+   "tytSosNet": 9.25,
+   "tytMatNet": 3.75,
+   "tytFenNet": 4.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 273.93,
+  "netler": {
+   "tytTrkNet": 24.75,
+   "tytSosNet": 7.5,
+   "tytMatNet": 11,
+   "tytFenNet": 0
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 206.15,
+  "netler": {
+   "tytTrkNet": 16.25,
+   "tytSosNet": 4,
+   "tytMatNet": -0.5,
+   "tytFenNet": 1.75
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 201.01,
+  "netler": {
+   "tytTrkNet": 18.75,
+   "tytSosNet": 3,
+   "tytMatNet": -1,
+   "tytFenNet": -1.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 185.38,
+  "netler": {
+   "tytTrkNet": 8,
+   "tytSosNet": 3.25,
+   "tytMatNet": 0,
+   "tytFenNet": 3
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 205.14,
+  "netler": {
+   "tytTrkNet": 11.5,
+   "tytSosNet": 5.5,
+   "tytMatNet": 2.5,
+   "tytFenNet": 1
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 200.78,
+  "netler": {
+   "tytTrkNet": 4.75,
+   "tytSosNet": 8.25,
+   "tytMatNet": 2.75,
+   "tytFenNet": 3.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 228.9,
+  "netler": {
+   "tytTrkNet": 16.5,
+   "tytSosNet": 6.25,
+   "tytMatNet": 4.75,
+   "tytFenNet": 1
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 236.96,
+  "netler": {
+   "tytTrkNet": 22.5,
+   "tytSosNet": 0,
+   "tytMatNet": 8.5,
+   "tytFenNet": 0
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 202.08,
+  "netler": {
+   "tytTrkNet": 9.75,
+   "tytSosNet": 7.5,
+   "tytMatNet": -1.25,
+   "tytFenNet": 4.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 147.69,
+  "netler": {
+   "tytTrkNet": 0.25,
+   "tytSosNet": 5,
+   "tytMatNet": 0.75,
+   "tytFenNet": 0.5
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 202.4,
+  "netler": {
+   "tytTrkNet": 7.25,
+   "tytSosNet": 7.25,
+   "tytMatNet": 2,
+   "tytFenNet": 3.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 254.55,
+  "netler": {
+   "tytTrkNet": 25.75,
+   "tytSosNet": -0.25,
+   "tytMatNet": 9.75,
+   "tytFenNet": 2
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 209.26,
+  "netler": {
+   "tytTrkNet": 18.75,
+   "tytSosNet": 5,
+   "tytMatNet": -0.5,
+   "tytFenNet": -1
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 297.63,
+  "netler": {
+   "tytTrkNet": 24.75,
+   "tytSosNet": 14.25,
+   "tytMatNet": 11.5,
+   "tytFenNet": 0.75
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 272.67,
+  "netler": {
+   "tytTrkNet": 27.25,
+   "tytSosNet": 9.25,
+   "tytMatNet": 4.75,
+   "tytFenNet": 2.75
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 152.7,
+  "netler": {
+   "tytTrkNet": 1.5,
+   "tytSosNet": 1,
+   "tytMatNet": 0,
+   "tytFenNet": 0
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 273.72,
+  "netler": {
+   "tytTrkNet": 22.75,
+   "tytSosNet": 10.25,
+   "tytMatNet": 9,
+   "tytFenNet": 1.5
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 274.62,
+  "netler": {
+   "tytTrkNet": 21.5,
+   "tytSosNet": 11.5,
+   "tytMatNet": 8.25,
+   "tytFenNet": 2.75
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 220.87,
+  "netler": {
+   "tytTrkNet": 12,
+   "tytSosNet": 10.25,
+   "tytMatNet": 3.5,
+   "tytFenNet": -0.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 250.07,
+  "netler": {
+   "tytTrkNet": 24.25,
+   "tytSosNet": 9,
+   "tytMatNet": 1.25,
+   "tytFenNet": 2
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 275.74,
+  "netler": {
+   "tytTrkNet": 22,
+   "tytSosNet": 14,
+   "tytMatNet": 8,
+   "tytFenNet": 0
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 220.95,
+  "netler": {
+   "tytTrkNet": 19.5,
+   "tytSosNet": 7,
+   "tytMatNet": -0.75,
+   "tytFenNet": 0.75
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 198.91,
+  "netler": {
+   "tytTrkNet": 10,
+   "tytSosNet": 8,
+   "tytMatNet": 0,
+   "tytFenNet": 0.5
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 272.45,
+  "netler": {
+   "tytTrkNet": 24.5,
+   "tytSosNet": 6.25,
+   "tytMatNet": 10.75,
+   "tytFenNet": 1.5
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 286.21,
+  "netler": {
+   "tytTrkNet": 26.25,
+   "tytSosNet": 11.5,
+   "tytMatNet": 10,
+   "tytFenNet": -0.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 290.43,
+  "netler": {
+   "tytTrkNet": 23,
+   "tytSosNet": 8,
+   "tytMatNet": 9,
+   "tytFenNet": 10.5
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 226.31,
+  "netler": {
+   "tytTrkNet": 16.25,
+   "tytSosNet": 4.5,
+   "tytMatNet": 5,
+   "tytFenNet": 2
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 276.16,
+  "netler": {
+   "tytTrkNet": 28.25,
+   "tytSosNet": 15,
+   "tytMatNet": 1.25,
+   "tytFenNet": 0.75
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 202.75,
+  "netler": {
+   "tytTrkNet": 15.75,
+   "tytSosNet": 4.5,
+   "tytMatNet": 0.75,
+   "tytFenNet": -1.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 231.78,
+  "netler": {
+   "tytTrkNet": 21.5,
+   "tytSosNet": 5.25,
+   "tytMatNet": 3,
+   "tytFenNet": 0
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 219.05,
+  "netler": {
+   "tytTrkNet": 18.25,
+   "tytSosNet": 5.75,
+   "tytMatNet": 0.5,
+   "tytFenNet": 1.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 264.71,
+  "netler": {
+   "tytTrkNet": 20.25,
+   "tytSosNet": 11.75,
+   "tytMatNet": 5.5,
+   "tytFenNet": 3.5
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 277.55,
+  "netler": {
+   "tytTrkNet": 18.5,
+   "tytSosNet": 11.75,
+   "tytMatNet": 9,
+   "tytFenNet": 6
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 255.42,
+  "netler": {
+   "tytTrkNet": 22.5,
+   "tytSosNet": 12,
+   "tytMatNet": 0.5,
+   "tytFenNet": 3.5
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 242.14,
+  "netler": {
+   "tytTrkNet": 14.25,
+   "tytSosNet": 1.5,
+   "tytMatNet": 15.25,
+   "tytFenNet": 0.75
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 194.75,
+  "netler": {
+   "tytTrkNet": 12.25,
+   "tytSosNet": 3,
+   "tytMatNet": 0,
+   "tytFenNet": 2.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 300.81,
+  "netler": {
+   "tytTrkNet": 26.25,
+   "tytSosNet": 12.75,
+   "tytMatNet": 8.5,
+   "tytFenNet": 6
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 242.87,
+  "netler": {
+   "tytTrkNet": 18.25,
+   "tytSosNet": 12.75,
+   "tytMatNet": 1,
+   "tytFenNet": 1.75
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 273.83,
+  "netler": {
+   "tytTrkNet": 24.25,
+   "tytSosNet": 11.25,
+   "tytMatNet": 6.25,
+   "tytFenNet": 2.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 248.48,
+  "netler": {
+   "tytTrkNet": 22.25,
+   "tytSosNet": 10.25,
+   "tytMatNet": 0,
+   "tytFenNet": 3.75
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 202.68,
+  "netler": {
+   "tytTrkNet": 12.25,
+   "tytSosNet": 6.5,
+   "tytMatNet": 0,
+   "tytFenNet": 1.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 268.29,
+  "netler": {
+   "tytTrkNet": 30.25,
+   "tytSosNet": 10.75,
+   "tytMatNet": 1,
+   "tytFenNet": 0.75
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 210.38,
+  "netler": {
+   "tytTrkNet": 14,
+   "tytSosNet": 8.75,
+   "tytMatNet": -0.25,
+   "tytFenNet": 0
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 258.11,
+  "netler": {
+   "tytTrkNet": 26.75,
+   "tytSosNet": 8.25,
+   "tytMatNet": 3,
+   "tytFenNet": 1
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 211.92,
+  "netler": {
+   "tytTrkNet": 19.5,
+   "tytSosNet": 4,
+   "tytMatNet": 0,
+   "tytFenNet": -0.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 247.36,
+  "netler": {
+   "tytTrkNet": 16.75,
+   "tytSosNet": 10.5,
+   "tytMatNet": 4.75,
+   "tytFenNet": 3
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 300.71,
+  "netler": {
+   "tytTrkNet": 30,
+   "tytSosNet": 8.75,
+   "tytMatNet": 11,
+   "tytFenNet": 3.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 283.5,
+  "netler": {
+   "tytTrkNet": 21.5,
+   "tytSosNet": 15.5,
+   "tytMatNet": 2.5,
+   "tytFenNet": 9
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 186.46,
+  "netler": {
+   "tytTrkNet": 5,
+   "tytSosNet": 5.25,
+   "tytMatNet": 2.25,
+   "tytFenNet": 1.5
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 300.41,
+  "netler": {
+   "tytTrkNet": 26.5,
+   "tytSosNet": 10.75,
+   "tytMatNet": 5.75,
+   "tytFenNet": 11.5
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 283.18,
+  "netler": {
+   "tytTrkNet": 21.75,
+   "tytSosNet": 12.25,
+   "tytMatNet": 9,
+   "tytFenNet": 4
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 275.55,
+  "netler": {
+   "tytTrkNet": 7.5,
+   "tytSosNet": 4.5,
+   "tytMatNet": 25.25,
+   "tytFenNet": 5
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 191.73,
+  "netler": {
+   "tytTrkNet": 7.5,
+   "tytSosNet": 9.25,
+   "tytMatNet": -1.75,
+   "tytFenNet": 1.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 252.36,
+  "netler": {
+   "tytTrkNet": 23,
+   "tytSosNet": 8.5,
+   "tytMatNet": 4.25,
+   "tytFenNet": 1
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 265.04,
+  "netler": {
+   "tytTrkNet": 23.75,
+   "tytSosNet": 15.25,
+   "tytMatNet": 8,
+   "tytFenNet": 1
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 245.82,
+  "netler": {
+   "tytTrkNet": 14.75,
+   "tytSosNet": 8.5,
+   "tytMatNet": 7.25,
+   "tytFenNet": 3.75
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 264.56,
+  "netler": {
+   "tytTrkNet": 22.5,
+   "tytSosNet": 10.75,
+   "tytMatNet": 2.5,
+   "tytFenNet": 6
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 240.64,
+  "netler": {
+   "tytTrkNet": 28.25,
+   "tytSosNet": 3.75,
+   "tytMatNet": 1.25,
+   "tytFenNet": 0
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 132.26,
+  "netler": {
+   "tytTrkNet": 1.25,
+   "tytSosNet": 0.75,
+   "tytMatNet": -4.25,
+   "tytFenNet": -2
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 202.6,
+  "netler": {
+   "tytTrkNet": 17.25,
+   "tytSosNet": 5.5,
+   "tytMatNet": -1.5,
+   "tytFenNet": -1.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 205.24,
+  "netler": {
+   "tytTrkNet": 9.25,
+   "tytSosNet": 11.25,
+   "tytMatNet": 0,
+   "tytFenNet": 0
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 244.3,
+  "netler": {
+   "tytTrkNet": 17.75,
+   "tytSosNet": 12.5,
+   "tytMatNet": 0.75,
+   "tytFenNet": 3.5
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 315.54,
+  "netler": {
+   "tytTrkNet": 26.25,
+   "tytSosNet": 15,
+   "tytMatNet": 10.75,
+   "tytFenNet": 6.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 264.2,
+  "netler": {
+   "tytTrkNet": 25,
+   "tytSosNet": 10,
+   "tytMatNet": 4,
+   "tytFenNet": 2
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 213.23,
+  "netler": {
+   "tytTrkNet": 14.75,
+   "tytSosNet": 7.75,
+   "tytMatNet": 0.5,
+   "tytFenNet": 0.5
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 235.43,
+  "netler": {
+   "tytTrkNet": 17,
+   "tytSosNet": 14,
+   "tytMatNet": -0.75,
+   "tytFenNet": 1
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 276.66,
+  "netler": {
+   "tytTrkNet": 28,
+   "tytSosNet": 13,
+   "tytMatNet": 3.25,
+   "tytFenNet": 1
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 230.54,
+  "netler": {
+   "tytTrkNet": 19.5,
+   "tytSosNet": 11.75,
+   "tytMatNet": -1,
+   "tytFenNet": -0.75
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 205.14,
+  "netler": {
+   "tytTrkNet": 16.25,
+   "tytSosNet": 3.75,
+   "tytMatNet": 0,
+   "tytFenNet": 1
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 218.24,
+  "netler": {
+   "tytTrkNet": 16.25,
+   "tytSosNet": 4.25,
+   "tytMatNet": 4.5,
+   "tytFenNet": -0.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 216.67,
+  "netler": {
+   "tytTrkNet": 11.75,
+   "tytSosNet": 12.5,
+   "tytMatNet": 0,
+   "tytFenNet": 0.25
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 215.56,
+  "netler": {
+   "tytTrkNet": 14.75,
+   "tytSosNet": 9.5,
+   "tytMatNet": 0,
+   "tytFenNet": 0
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 298.38,
+  "netler": {
+   "tytTrkNet": 32,
+   "tytSosNet": 14.5,
+   "tytMatNet": 5.25,
+   "tytFenNet": 0.75
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 242.47,
+  "netler": {
+   "tytTrkNet": 20,
+   "tytSosNet": 10.75,
+   "tytMatNet": 1,
+   "tytFenNet": 2
+  }
+ },
+ {
+  "puanTuru": "TYT",
+  "beklenen": 209.42,
+  "netler": {
+   "tytTrkNet": 10,
+   "tytSosNet": 3.75,
+   "tytMatNet": 6.5,
+   "tytFenNet": 1.25
+  }
+ }
+]

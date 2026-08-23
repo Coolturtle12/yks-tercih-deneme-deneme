@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "test": "node --test \"test/**/*.test.ts\"",
+    "veri": "node --max-old-space-size=4096 scripts/veri-cek.mjs"
   },
   "dependencies": {
     "next": "16.3.0",

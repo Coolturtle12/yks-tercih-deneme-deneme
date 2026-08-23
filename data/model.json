@@ -1,0 +1,2287 @@
+{
+  "kilavuzYili": 2026,
+  "kalibrasyonYili": 2025,
+  "obpKatsayisi": 0.12,
+  "obpEkPuanKatsayisi": 0.18,
+  "netAlanlari": {
+    "SAY": [
+      "tytTrkNet",
+      "tytSosNet",
+      "tytMatNet",
+      "tytFenNet",
+      "aytMatNet",
+      "aytFizNet",
+      "aytKimNet",
+      "aytBioNet"
+    ],
+    "EA": [
+      "tytTrkNet",
+      "tytSosNet",
+      "tytMatNet",
+      "tytFenNet",
+      "aytMatNet",
+      "aytTdeNet",
+      "aytTrh1Net",
+      "aytCog1Net"
+    ],
+    "SÖZ": [
+      "tytTrkNet",
+      "tytSosNet",
+      "tytMatNet",
+      "tytFenNet",
+      "aytTdeNet",
+      "aytTrh1Net",
+      "aytCog1Net",
+      "aytTrh2Net",
+      "aytCog2Net",
+      "aytFelNet",
+      "aytDinNet"
+    ],
+    "DİL": [
+      "tytTrkNet",
+      "tytSosNet",
+      "tytMatNet",
+      "tytFenNet",
+      "ydtYdilNet"
+    ],
+    "TYT": [
+      "tytTrkNet",
+      "tytSosNet",
+      "tytMatNet",
+      "tytFenNet"
+    ]
+  },
+  "puanTurleri": {
+    "SAY": {
+      "sabit": 130.4163,
+      "katsayilar": {
+        "tytTrkNet": 1.2184,
+        "tytSosNet": 1.33,
+        "tytMatNet": 1.4267,
+        "tytFenNet": 1.1292,
+        "aytMatNet": 2.8659,
+        "aytFizNet": 2.4076,
+        "aytKimNet": 2.5217,
+        "aytBioNet": 2.6525
+      },
+      "n": 5264,
+      "rmse": 3.434,
+      "enBuyukHata": 29.54,
+      "r2": 0.998,
+      "kalibrasyonAraligi": [
+        110.8,
+        492.1
+      ],
+      "dogrulamaRmse": 3.205,
+      "dogrulamaN": 1053,
+      "siraEgrisi": [
+        [
+          474.02,
+          2847
+        ],
+        [
+          458.95,
+          9575
+        ],
+        [
+          449.2,
+          15467
+        ],
+        [
+          440.79,
+          21229
+        ],
+        [
+          433.23,
+          27665
+        ],
+        [
+          428.31,
+          32497
+        ],
+        [
+          423.85,
+          36176
+        ],
+        [
+          419.58,
+          39739
+        ],
+        [
+          415.25,
+          44013
+        ],
+        [
+          409.86,
+          48422
+        ],
+        [
+          404.16,
+          55057
+        ],
+        [
+          397.94,
+          60752
+        ],
+        [
+          392.04,
+          67180
+        ],
+        [
+          385.63,
+          72636
+        ],
+        [
+          379.93,
+          78623
+        ],
+        [
+          375.23,
+          83595
+        ],
+        [
+          369.76,
+          90154
+        ],
+        [
+          364.47,
+          95508
+        ],
+        [
+          359.01,
+          101285
+        ],
+        [
+          353.5,
+          107769
+        ],
+        [
+          348.84,
+          112644
+        ],
+        [
+          344.49,
+          119145
+        ],
+        [
+          339.99,
+          125060
+        ],
+        [
+          335.26,
+          131777
+        ],
+        [
+          329.92,
+          137182
+        ],
+        [
+          325.86,
+          143880
+        ],
+        [
+          321,
+          150618
+        ],
+        [
+          316.92,
+          158614
+        ],
+        [
+          312.38,
+          165694
+        ],
+        [
+          309.06,
+          172257
+        ],
+        [
+          304.85,
+          176647
+        ],
+        [
+          301.41,
+          185296
+        ],
+        [
+          297.89,
+          190705
+        ],
+        [
+          294.31,
+          199498
+        ],
+        [
+          290.57,
+          206864
+        ],
+        [
+          287.32,
+          215406
+        ],
+        [
+          284.33,
+          216563
+        ],
+        [
+          281.45,
+          224911
+        ],
+        [
+          278.71,
+          232013
+        ],
+        [
+          276,
+          237269
+        ],
+        [
+          273.4,
+          244098
+        ],
+        [
+          270.41,
+          253209
+        ],
+        [
+          266.23,
+          261156
+        ],
+        [
+          262.77,
+          273587
+        ],
+        [
+          259.37,
+          279819
+        ],
+        [
+          255.77,
+          290340
+        ],
+        [
+          251.5,
+          301620
+        ],
+        [
+          246.77,
+          320555
+        ],
+        [
+          241.98,
+          341153
+        ],
+        [
+          237.67,
+          354064
+        ],
+        [
+          231.73,
+          378466
+        ],
+        [
+          225.6,
+          407658
+        ],
+        [
+          219.91,
+          432399
+        ],
+        [
+          214.87,
+          463466
+        ],
+        [
+          208.21,
+          495177
+        ],
+        [
+          201.66,
+          544503
+        ],
+        [
+          193.29,
+          587054
+        ],
+        [
+          182.94,
+          695284
+        ],
+        [
+          164.45,
+          847043
+        ],
+        [
+          145.12,
+          1003988
+        ]
+      ]
+    },
+    "EA": {
+      "sabit": 125.0557,
+      "katsayilar": {
+        "tytTrkNet": 1.2479,
+        "tytSosNet": 1.3044,
+        "tytMatNet": 1.4247,
+        "tytFenNet": 1.0447,
+        "aytMatNet": 2.8693,
+        "aytTdeNet": 3.0442,
+        "aytTrh1Net": 2.4946,
+        "aytCog1Net": 2.9159
+      },
+      "n": 3841,
+      "rmse": 5.257,
+      "enBuyukHata": 31.49,
+      "r2": 0.99382,
+      "kalibrasyonAraligi": [
+        105.8,
+        469.8
+      ],
+      "dogrulamaRmse": 4.555,
+      "dogrulamaN": 769,
+      "siraEgrisi": [
+        [
+          430.76,
+          1247
+        ],
+        [
+          396.66,
+          5011
+        ],
+        [
+          380.27,
+          10098
+        ],
+        [
+          370.23,
+          17167
+        ],
+        [
+          360.4,
+          27188
+        ],
+        [
+          350.61,
+          37184
+        ],
+        [
+          343.52,
+          47070
+        ],
+        [
+          338.29,
+          55875
+        ],
+        [
+          334.36,
+          64921
+        ],
+        [
+          329.46,
+          73089
+        ],
+        [
+          325.23,
+          82856
+        ],
+        [
+          321.61,
+          90705
+        ],
+        [
+          318.45,
+          101036
+        ],
+        [
+          315.43,
+          108210
+        ],
+        [
+          312.73,
+          108263
+        ],
+        [
+          310.06,
+          117855
+        ],
+        [
+          307.59,
+          122856
+        ],
+        [
+          304.97,
+          128746
+        ],
+        [
+          302.26,
+          141555
+        ],
+        [
+          299.81,
+          144313
+        ],
+        [
+          297.36,
+          155848
+        ],
+        [
+          293.99,
+          164585
+        ],
+        [
+          291.68,
+          170335
+        ],
+        [
+          289.06,
+          179353
+        ],
+        [
+          286.43,
+          191992
+        ],
+        [
+          283.51,
+          199373
+        ],
+        [
+          281.32,
+          210677
+        ],
+        [
+          278.47,
+          226209
+        ],
+        [
+          275.48,
+          235491
+        ],
+        [
+          272.3,
+          253519
+        ],
+        [
+          268.84,
+          271221
+        ],
+        [
+          265.64,
+          281003
+        ],
+        [
+          262.11,
+          304420
+        ],
+        [
+          258.8,
+          327798
+        ],
+        [
+          255.9,
+          337207
+        ],
+        [
+          252.1,
+          376803
+        ],
+        [
+          249.6,
+          386580
+        ],
+        [
+          245.6,
+          406417
+        ],
+        [
+          242.75,
+          437394
+        ],
+        [
+          238.84,
+          458306
+        ],
+        [
+          235.39,
+          499478
+        ],
+        [
+          231.77,
+          511808
+        ],
+        [
+          229.34,
+          545901
+        ],
+        [
+          226.32,
+          563070
+        ],
+        [
+          222.68,
+          602408
+        ],
+        [
+          219.49,
+          638292
+        ],
+        [
+          215.99,
+          642287
+        ],
+        [
+          212.18,
+          684734
+        ],
+        [
+          209.17,
+          718321
+        ],
+        [
+          205.91,
+          761860
+        ],
+        [
+          202.37,
+          820758
+        ],
+        [
+          198.86,
+          840239
+        ],
+        [
+          195.82,
+          878350
+        ],
+        [
+          192.22,
+          952706
+        ],
+        [
+          188.12,
+          962087
+        ],
+        [
+          183.56,
+          1000419
+        ],
+        [
+          176.75,
+          1084394
+        ],
+        [
+          168.8,
+          1157865
+        ],
+        [
+          157.3,
+          1276893
+        ],
+        [
+          137.68,
+          1388498
+        ]
+      ]
+    },
+    "SÖZ": {
+      "sabit": 127.0931,
+      "katsayilar": {
+        "tytTrkNet": 1.1006,
+        "tytSosNet": 1.1418,
+        "tytMatNet": 1.3065,
+        "tytFenNet": 1.014,
+        "aytTdeNet": 2.876,
+        "aytTrh1Net": 2.4977,
+        "aytCog1Net": 2.6768,
+        "aytTrh2Net": 3.7268,
+        "aytCog2Net": 2.5692,
+        "aytFelNet": 3.8208,
+        "aytDinNet": 2.4902
+      },
+      "n": 1870,
+      "rmse": 5.721,
+      "enBuyukHata": 30.92,
+      "r2": 0.99281,
+      "kalibrasyonAraligi": [
+        107.1,
+        440.9
+      ],
+      "dogrulamaRmse": 5.783,
+      "dogrulamaN": 374,
+      "siraEgrisi": [
+        [
+          416.85,
+          614
+        ],
+        [
+          394.77,
+          1729
+        ],
+        [
+          383.89,
+          3065
+        ],
+        [
+          376.91,
+          4478
+        ],
+        [
+          373.06,
+          5842
+        ],
+        [
+          370.25,
+          6685
+        ],
+        [
+          364.2,
+          9061
+        ],
+        [
+          360.21,
+          10021
+        ],
+        [
+          355.94,
+          13142
+        ],
+        [
+          352.64,
+          13997
+        ],
+        [
+          349.36,
+          15898
+        ],
+        [
+          346.65,
+          18204
+        ],
+        [
+          343.34,
+          20693
+        ],
+        [
+          340.86,
+          23524
+        ],
+        [
+          337.1,
+          27202
+        ],
+        [
+          334.95,
+          28693
+        ],
+        [
+          333.3,
+          31961
+        ],
+        [
+          330.06,
+          35894
+        ],
+        [
+          326.73,
+          42516
+        ],
+        [
+          322.35,
+          44428
+        ],
+        [
+          320.82,
+          45279
+        ],
+        [
+          318.79,
+          51310
+        ],
+        [
+          316.28,
+          57422
+        ],
+        [
+          312.79,
+          59955
+        ],
+        [
+          309.61,
+          65640
+        ],
+        [
+          306.27,
+          72873
+        ],
+        [
+          303.02,
+          83669
+        ],
+        [
+          299.63,
+          94676
+        ],
+        [
+          295.1,
+          111649
+        ],
+        [
+          291.56,
+          120176
+        ],
+        [
+          289.65,
+          127051
+        ],
+        [
+          286.29,
+          138036
+        ],
+        [
+          279.29,
+          161903
+        ],
+        [
+          274.9,
+          174220
+        ],
+        [
+          271.6,
+          198930
+        ],
+        [
+          268.17,
+          212799
+        ],
+        [
+          264.71,
+          228402
+        ],
+        [
+          261.06,
+          251895
+        ],
+        [
+          258.35,
+          256238
+        ],
+        [
+          254.7,
+          297584
+        ],
+        [
+          250.66,
+          304124
+        ],
+        [
+          247.57,
+          326581
+        ],
+        [
+          243.73,
+          353199
+        ],
+        [
+          237.25,
+          409559
+        ],
+        [
+          233.62,
+          425937
+        ],
+        [
+          229.81,
+          464838
+        ],
+        [
+          224.43,
+          499731
+        ],
+        [
+          220.68,
+          527015
+        ],
+        [
+          215.76,
+          564459
+        ],
+        [
+          212.71,
+          618296
+        ],
+        [
+          204.85,
+          677875
+        ],
+        [
+          200.09,
+          711754
+        ],
+        [
+          194.19,
+          762402
+        ],
+        [
+          181.32,
+          871004
+        ],
+        [
+          157.33,
+          1007529
+        ]
+      ]
+    },
+    "DİL": {
+      "sabit": 101.9395,
+      "katsayilar": {
+        "tytTrkNet": 1.4672,
+        "tytSosNet": 1.8302,
+        "tytMatNet": 1.8179,
+        "tytFenNet": 1.3405,
+        "ydtYdilNet": 2.6373
+      },
+      "n": 659,
+      "rmse": 5.503,
+      "enBuyukHata": 26.71,
+      "r2": 0.99602,
+      "kalibrasyonAraligi": [
+        89.6,
+        467.4
+      ],
+      "dogrulamaRmse": 6.295,
+      "dogrulamaN": 132,
+      "siraEgrisi": [
+        [
+          438.26,
+          1823
+        ],
+        [
+          414.94,
+          4187
+        ],
+        [
+          404.37,
+          5741
+        ],
+        [
+          397.69,
+          7086
+        ],
+        [
+          393.5,
+          8150
+        ],
+        [
+          390.56,
+          8642
+        ],
+        [
+          387.31,
+          10848
+        ],
+        [
+          380.39,
+          12110
+        ],
+        [
+          376.04,
+          13065
+        ],
+        [
+          373.75,
+          14003
+        ],
+        [
+          372.83,
+          14182
+        ],
+        [
+          370.8,
+          14771
+        ],
+        [
+          367.88,
+          16019
+        ],
+        [
+          366.12,
+          16779
+        ],
+        [
+          363.02,
+          18342
+        ],
+        [
+          358.96,
+          18481
+        ],
+        [
+          358.1,
+          19313
+        ],
+        [
+          355.45,
+          20387
+        ],
+        [
+          354.38,
+          20569
+        ],
+        [
+          352.96,
+          20907
+        ],
+        [
+          351.2,
+          21335
+        ],
+        [
+          348.13,
+          23396
+        ],
+        [
+          345.56,
+          23563
+        ],
+        [
+          343.2,
+          24662
+        ],
+        [
+          341.92,
+          27199
+        ],
+        [
+          335.14,
+          28822
+        ],
+        [
+          332.78,
+          30188
+        ],
+        [
+          330.2,
+          30230
+        ],
+        [
+          328.04,
+          33364
+        ],
+        [
+          322.97,
+          33623
+        ],
+        [
+          319.1,
+          35283
+        ],
+        [
+          316.62,
+          36990
+        ],
+        [
+          314.08,
+          38688
+        ],
+        [
+          304.38,
+          41295
+        ],
+        [
+          299.87,
+          43239
+        ],
+        [
+          294.55,
+          46522
+        ],
+        [
+          291.65,
+          47978
+        ],
+        [
+          286.62,
+          50472
+        ],
+        [
+          282.29,
+          51764
+        ],
+        [
+          278.97,
+          53152
+        ],
+        [
+          271.43,
+          56701
+        ],
+        [
+          266.58,
+          58696
+        ],
+        [
+          255.47,
+          64451
+        ],
+        [
+          247.27,
+          68175
+        ],
+        [
+          232.91,
+          77341
+        ],
+        [
+          224.16,
+          79912
+        ],
+        [
+          207.92,
+          90796
+        ],
+        [
+          192.78,
+          100400
+        ],
+        [
+          162.4,
+          117713
+        ],
+        [
+          147.3,
+          126479
+        ]
+      ]
+    },
+    "TYT": {
+      "sabit": 142.5053,
+      "katsayilar": {
+        "tytTrkNet": 2.8821,
+        "tytSosNet": 3.0191,
+        "tytMatNet": 3.2623,
+        "tytFenNet": 2.5849
+      },
+      "n": 9186,
+      "rmse": 5.908,
+      "enBuyukHata": 39.32,
+      "r2": 0.98366,
+      "kalibrasyonAraligi": [
+        97.9,
+        390.7
+      ],
+      "dogrulamaRmse": 5.862,
+      "dogrulamaN": 1838,
+      "siraEgrisi": [
+        [
+          342.73,
+          221050
+        ],
+        [
+          327.48,
+          275980
+        ],
+        [
+          321.04,
+          306996
+        ],
+        [
+          316.05,
+          332830
+        ],
+        [
+          311.76,
+          356492
+        ],
+        [
+          307.88,
+          381105
+        ],
+        [
+          305.11,
+          389602
+        ],
+        [
+          302.27,
+          406239
+        ],
+        [
+          299.57,
+          428270
+        ],
+        [
+          296.94,
+          448983
+        ],
+        [
+          294.83,
+          466663
+        ],
+        [
+          292.27,
+          484155
+        ],
+        [
+          289.96,
+          500786
+        ],
+        [
+          287.77,
+          517174
+        ],
+        [
+          285.53,
+          543404
+        ],
+        [
+          283.23,
+          551669
+        ],
+        [
+          281.24,
+          573072
+        ],
+        [
+          278.85,
+          591002
+        ],
+        [
+          276.18,
+          620098
+        ],
+        [
+          273.74,
+          641467
+        ],
+        [
+          270.95,
+          666339
+        ],
+        [
+          268.89,
+          693865
+        ],
+        [
+          265.97,
+          722898
+        ],
+        [
+          263.85,
+          748101
+        ],
+        [
+          261.65,
+          775774
+        ],
+        [
+          259.24,
+          805578
+        ],
+        [
+          256.93,
+          823345
+        ],
+        [
+          254.95,
+          854160
+        ],
+        [
+          253.18,
+          878884
+        ],
+        [
+          251.48,
+          890863
+        ],
+        [
+          249.37,
+          931807
+        ],
+        [
+          247.5,
+          952283
+        ],
+        [
+          245.17,
+          970673
+        ],
+        [
+          243.22,
+          1012137
+        ],
+        [
+          241.46,
+          1033884
+        ],
+        [
+          239.58,
+          1041910
+        ],
+        [
+          237.91,
+          1061576
+        ],
+        [
+          236.31,
+          1096811
+        ],
+        [
+          234.75,
+          1125753
+        ],
+        [
+          233.31,
+          1146920
+        ],
+        [
+          231.89,
+          1178057
+        ],
+        [
+          230.32,
+          1181850
+        ],
+        [
+          228.56,
+          1218773
+        ],
+        [
+          227.01,
+          1225401
+        ],
+        [
+          225.14,
+          1278760
+        ],
+        [
+          223.6,
+          1282668
+        ],
+        [
+          222.31,
+          1288558
+        ],
+        [
+          220.43,
+          1316358
+        ],
+        [
+          218.53,
+          1350477
+        ],
+        [
+          216.59,
+          1382668
+        ],
+        [
+          214.47,
+          1409121
+        ],
+        [
+          212.69,
+          1434159
+        ],
+        [
+          210.87,
+          1469816
+        ],
+        [
+          208.45,
+          1495803
+        ],
+        [
+          206.23,
+          1516147
+        ],
+        [
+          202.85,
+          1564038
+        ],
+        [
+          198.12,
+          1606677
+        ],
+        [
+          190.08,
+          1747231
+        ],
+        [
+          179.46,
+          1914239
+        ],
+        [
+          159.92,
+          2116280
+        ]
+      ]
+    }
+  },
+  "programSayilari": {
+    "SAY": 5744,
+    "EA": 3900,
+    "SÖZ": 1914,
+    "DİL": 679,
+    "TYT": 9254
+  },
+  "secenekler": {
+    "universiteler": [
+      "ABDULLAH GÜL ÜNİVERSİTESİ (KAYSERİ)",
+      "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "ADA KENT ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "ADIYAMAN ÜNİVERSİTESİ",
+      "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
+      "AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
+      "AKDENİZ KARPAZ ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "AKSARAY ÜNİVERSİTESİ",
+      "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ (ANTALYA)",
+      "ALANYA ÜNİVERSİTESİ (ANTALYA)",
+      "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "AMASYA ÜNİVERSİTESİ",
+      "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
+      "ANKARA BİLİM ÜNİVERSİTESİ",
+      "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
+      "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ",
+      "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
+      "ANKARA ÜNİVERSİTESİ",
+      "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
+      "ANTALYA BELEK ÜNİVERSİTESİ",
+      "ANTALYA BİLİM ÜNİVERSİTESİ",
+      "ARDAHAN ÜNİVERSİTESİ",
+      "ARKIN YARATICI SANATLAR VE TASARIM ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "ARTVİN ÇORUH ÜNİVERSİTESİ",
+      "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU (İSTANBUL)",
+      "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "ATILIM ÜNİVERSİTESİ (ANKARA)",
+      "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "AZERBAYCAN DEVLET PEDAGOJİ ÜNİVERSİTESİ (BAKÜ-AZERBAYCAN)",
+      "BAHÇEŞEHİR KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
+      "BALIKESİR ÜNİVERSİTESİ",
+      "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ (BALIKESİR)",
+      "BARTIN ÜNİVERSİTESİ",
+      "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "BATMAN ÜNİVERSİTESİ",
+      "BAYBURT ÜNİVERSİTESİ",
+      "BEYKOZ ÜNİVERSİTESİ (İSTANBUL)",
+      "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+      "BİNGÖL ÜNİVERSİTESİ",
+      "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+      "BİTLİS EREN ÜNİVERSİTESİ",
+      "BOĞAZİÇİ ÜNİVERSİTESİ (İSTANBUL)",
+      "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+      "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "BURSA TEKNİK ÜNİVERSİTESİ",
+      "BURSA ULUDAĞ ÜNİVERSİTESİ",
+      "ÇAĞ ÜNİVERSİTESİ (MERSİN)",
+      "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "ÇANKAYA ÜNİVERSİTESİ (ANKARA)",
+      "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+      "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "DEMİROĞLU BİLİM ÜNİVERSİTESİ (İSTANBUL)",
+      "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
+      "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+      "DÜZCE ÜNİVERSİTESİ",
+      "EGE ÜNİVERSİTESİ (İZMİR)",
+      "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
+      "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+      "ERZURUM TEKNİK ÜNİVERSİTESİ",
+      "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
+      "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
+      "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "GALATASARAY ÜNİVERSİTESİ (İSTANBUL)",
+      "GAZİ ÜNİVERSİTESİ (ANKARA)",
+      "GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "GAZİANTEP ÜNİVERSİTESİ",
+      "GEBZE TEKNİK ÜNİVERSİTESİ",
+      "GİRESUN ÜNİVERSİTESİ",
+      "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "GÜMÜŞHANE ÜNİVERSİTESİ",
+      "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
+      "HAKKARİ ÜNİVERSİTESİ",
+      "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
+      "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "HİTİT ÜNİVERSİTESİ (ÇORUM)",
+      "HOCA AHMET YESEVİ ULUSLARARASI TÜRK-KAZAK ÜNİVERSİTESİ (TÜRKİSTAN-KAZAKİSTAN)",
+      "IĞDIR ÜNİVERSİTESİ",
+      "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
+      "İBN HALDUN ÜNİVERSİTESİ (İSTANBUL)",
+      "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA)",
+      "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
+      "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
+      "İSTANBUL 29 MAYIS ÜNİVERSİTESİ",
+      "İSTANBUL AREL ÜNİVERSİTESİ",
+      "İSTANBUL ATLAS ÜNİVERSİTESİ",
+      "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+      "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "İSTANBUL GALATA ÜNİVERSİTESİ",
+      "İSTANBUL GEDİK ÜNİVERSİTESİ",
+      "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "İSTANBUL KENT ÜNİVERSİTESİ",
+      "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
+      "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
+      "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "İSTANBUL OKAN ÜNİVERSİTESİ",
+      "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
+      "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+      "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+      "İSTANBUL TİCARET ÜNİVERSİTESİ",
+      "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "İSTANBUL ÜNİVERSİTESİ",
+      "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
+      "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+      "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+      "İZMİR BAKIRÇAY ÜNİVERSİTESİ",
+      "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+      "İZMİR EKONOMİ ÜNİVERSİTESİ",
+      "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+      "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+      "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+      "KADİR HAS ÜNİVERSİTESİ (İSTANBUL)",
+      "KAFKAS ÜNİVERSİTESİ (KARS)",
+      "KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ",
+      "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+      "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "KARABÜK ÜNİVERSİTESİ",
+      "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
+      "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
+      "KASTAMONU ÜNİVERSİTESİ",
+      "KAYSERİ ÜNİVERSİTESİ",
+      "KIBRIS AMERİKAN ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "KIBRIS AYDIN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "KIBRIS BATI ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "KIBRIS SAĞLIK VE TOPLUM BİLİMLERİ ÜNİVERSİTESİ (KKTC-GÜZELYURT)",
+      "KIRGIZİSTAN-TÜRKİYE MANAS ÜNİVERSİTESİ (BİŞKEK-KIRGIZİSTAN)",
+      "KIRIKKALE ÜNİVERSİTESİ",
+      "KIRKLARELİ ÜNİVERSİTESİ",
+      "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+      "KİLİS 7 ARALIK ÜNİVERSİTESİ",
+      "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "KOCAELİ ÜNİVERSİTESİ",
+      "KOÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "KONYA GIDA VE TARIM ÜNİVERSİTESİ",
+      "KONYA TEKNİK ÜNİVERSİTESİ",
+      "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+      "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
+      "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
+      "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
+      "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+      "MARDİN ARTUKLU ÜNİVERSİTESİ",
+      "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
+      "MEF ÜNİVERSİTESİ (İSTANBUL)",
+      "MERSİN ÜNİVERSİTESİ",
+      "MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "MUDANYA ÜNİVERSİTESİ (BURSA)",
+      "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+      "MUNZUR ÜNİVERSİTESİ (TUNCELİ)",
+      "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+      "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
+      "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+      "NUH NACİ YAZGAN ÜNİVERSİTESİ (KAYSERİ)",
+      "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
+      "ORDU ÜNİVERSİTESİ",
+      "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)",
+      "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
+      "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
+      "ÖZYEĞİN ÜNİVERSİTESİ (İSTANBUL)",
+      "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
+      "RAUF DENKTAŞ ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
+      "SABANCI ÜNİVERSİTESİ (İSTANBUL)",
+      "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
+      "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "SAKARYA ÜNİVERSİTESİ",
+      "SAMSUN ÜNİVERSİTESİ",
+      "SANKO ÜNİVERSİTESİ (GAZİANTEP)",
+      "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "SİİRT ÜNİVERSİTESİ",
+      "SİNOP ÜNİVERSİTESİ",
+      "SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+      "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
+      "ŞIRNAK ÜNİVERSİTESİ",
+      "TARSUS ÜNİVERSİTESİ (MERSİN)",
+      "TED ÜNİVERSİTESİ (ANKARA)",
+      "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+      "TİRAN NEW YORK ÜNİVERSİTESİ (TİRAN-ARNAVUTLUK)",
+      "TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ (ANKARA)",
+      "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "TOROS ÜNİVERSİTESİ (MERSİN)",
+      "TRABZON ÜNİVERSİTESİ",
+      "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "TÜRK HAVA KURUMU ÜNİVERSİTESİ (ANKARA)",
+      "TÜRK-ALMAN ÜNİVERSİTESİ (İSTANBUL)",
+      "TÜRK-JAPON BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "UFUK ÜNİVERSİTESİ (ANKARA)",
+      "ULUSLARARASI BALKAN ÜNİVERSİTESİ (ÜSKÜP-MAKEDONYA)",
+      "ULUSLARARASI FİNAL ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "ULUSLARARASI SARAYBOSNA ÜNİVERSİTESİ (SARAYBOSNA - BOSNA - HERSEK)",
+      "UŞAK ÜNİVERSİTESİ",
+      "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "YALOVA ÜNİVERSİTESİ",
+      "YAŞAR ÜNİVERSİTESİ (İZMİR)",
+      "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL)",
+      "YOZGAT BOZOK ÜNİVERSİTESİ",
+      "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+      "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ"
+    ],
+    "iller": [
+      "ADANA",
+      "ADIYAMAN",
+      "AFYONKARAHİSAR",
+      "AĞRI",
+      "AKSARAY",
+      "AMASYA",
+      "ANKARA",
+      "ANTALYA",
+      "ARDAHAN",
+      "ARTVİN",
+      "AYDIN",
+      "BALIKESİR",
+      "BARTIN",
+      "BATMAN",
+      "BAYBURT",
+      "BİLECİK",
+      "BİNGÖL",
+      "BİTLİS",
+      "BOLU",
+      "BOSNA-HERSEK",
+      "BURDUR",
+      "BURSA",
+      "ÇANAKKALE",
+      "ÇANKIRI",
+      "ÇORUM",
+      "DENİZLİ",
+      "DİYARBAKIR",
+      "DÜZCE",
+      "EDİRNE",
+      "ELAZIĞ",
+      "ERZİNCAN",
+      "ERZURUM",
+      "ESKİŞEHİR",
+      "GAZİANTEP",
+      "GİRESUN",
+      "GÜMÜŞHANE",
+      "HAKKARİ",
+      "HATAY",
+      "IĞDIR",
+      "ISPARTA",
+      "İSTANBUL",
+      "İZMİR",
+      "KAHRAMANMARAŞ",
+      "KARABÜK",
+      "KARAMAN",
+      "KARS",
+      "KASTAMONU",
+      "KAYSERİ",
+      "KIBRIS",
+      "KIRIKKALE",
+      "KIRKLARELİ",
+      "KIRŞEHİR",
+      "KİLİS",
+      "KOCAELİ",
+      "KONYA",
+      "KÜTAHYA",
+      "MALATYA",
+      "MANİSA",
+      "MARDİN",
+      "MERSİN",
+      "MUĞLA",
+      "MUŞ",
+      "NEVŞEHİR",
+      "NİĞDE",
+      "ORDU",
+      "OSMANİYE",
+      "RİZE",
+      "SAKARYA",
+      "SAMSUN",
+      "SİİRT",
+      "SİNOP",
+      "SİVAS",
+      "ŞANLIURFA",
+      "ŞIRNAK",
+      "TEKİRDAĞ",
+      "TOKAT",
+      "TRABZON",
+      "TUNCELİ",
+      "UŞAK",
+      "VAN",
+      "YALOVA",
+      "YOZGAT",
+      "ZONGULDAK"
+    ],
+    "gruplar": [
+      "Abaza Dili ve Edebiyatı",
+      "Acil Durum ve Afet Yönetimi",
+      "Acil Yardım ve Afet Yönetimi",
+      "Açık Deniz Sondaj Teknolojisi",
+      "Açık Deniz Tabanı Uygulamaları Teknolojisi",
+      "Adli Bilimler",
+      "Adli Bilişim Mühendisliği",
+      "Ağaç İşleri Endüstri Mühendisliği",
+      "Ağız ve Diş Sağlığı",
+      "Akıllı Altyapılar Teknikerliği",
+      "Akıllı Sera Teknolojileri",
+      "Akıllı Tarım ve Gıda Yönetimi",
+      "Aktüerya Bilimleri",
+      "Alman Dili ve Edebiyatı",
+      "Almanca Mütercim ve Tercümanlık",
+      "Almanca Öğretmenliği",
+      "Alternatif Enerji Kaynakları Teknolojisi",
+      "Ameliyathane Hizmetleri",
+      "Amerikan Kültürü ve Edebiyatı",
+      "Anestezi",
+      "Animasyon ve Video Üretimi",
+      "Antrenörlük Eğitimi",
+      "Antropoloji",
+      "Arap Dili ve Edebiyatı",
+      "Arapça Mütercim ve Tercümanlık",
+      "Arapça Öğretmenliği",
+      "Arıcılık",
+      "Arka-Yüz Yazılım Geliştirme",
+      "Arkeoloji",
+      "Arkeoloji ve Sanat Tarihi",
+      "Arnavut Dili ve Edebiyatı",
+      "Astronomi ve Uzay Bilimleri",
+      "Aşçılık",
+      "Atçılık ve Antrenörlüğü",
+      "Avcılık ve Yaban Hayatı",
+      "Ayakkabı Tasarım ve Üretimi",
+      "Ayakkabı Tasarımı ve Üretimi",
+      "Azerbaycan Türkçesi ve Edebiyatı",
+      "Bağcılık",
+      "Bağcılık ve Bağ Ürünleri Teknolojisi",
+      "Bahçe Bitkileri",
+      "Bahçe Tarımı",
+      "Bahçe ve Tarla Bitkileri",
+      "Balıkçılık Teknolojisi",
+      "Balıkçılık Teknolojisi Mühendisliği",
+      "Bankacılık",
+      "Bankacılık ve Finans",
+      "Bankacılık ve Sigortacılık",
+      "Basım Teknolojileri",
+      "Basım ve Yayım Teknolojileri",
+      "Basın ve Yayın",
+      "Beden Eğitimi ve Spor Öğretmenliği",
+      "Beslenme ve Diyetetik",
+      "Bıçakçılık ve El Aletleri Üretim Teknolojisi",
+      "Bilgi Güvenliği Teknolojisi",
+      "Bilgi ve Belge Yönetimi",
+      "Bilgisayar Bilimleri",
+      "Bilgisayar Bilimleri ve Mühendisliği",
+      "Bilgisayar Destekli Tasarım ve Animasyon",
+      "Bilgisayar Mühendisliği",
+      "Bilgisayar Operatörlüğü",
+      "Bilgisayar Programcılığı",
+      "Bilgisayar Teknolojisi",
+      "Bilgisayar Teknolojisi ve Bilişim Sistemleri",
+      "Bilgisayar ve Öğretim Teknolojileri Öğretmenliği",
+      "Bilim Tarihi",
+      "Bilişim Güvenliği Teknolojisi",
+      "Bilişim Sistemleri Mühendisliği",
+      "Bilişim Sistemleri ve Teknolojileri",
+      "Bitki Koruma",
+      "Bitkisel Üretim ve Teknolojileri",
+      "Biyokimya",
+      "Biyoloji",
+      "Biyoloji Öğretmenliği",
+      "Biyomedikal Cihaz Teknolojisi",
+      "Biyomedikal Mühendisliği",
+      "Biyomühendislik",
+      "Biyosistem Mühendisliği",
+      "Biyoteknoloji",
+      "Biyoteknoloji ve Genetik",
+      "Boşnak Dili ve Edebiyatı",
+      "Boya Teknolojisi",
+      "Bulgar Dili ve Edebiyatı",
+      "Bulgarca Mütercim ve Tercümanlık",
+      "Bulut Bilişim Operatörlüğü",
+      "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Büyük Veri Analistliği",
+      "Cevher Hazırlama Mühendisliği",
+      "Ceza İnfaz ve Güvenlik Hizmetleri",
+      "Cnc Programlama ve Operatörlüğü",
+      "Coğrafi Bilgi Sistemleri",
+      "Coğrafya",
+      "Coğrafya Öğretmenliği",
+      "Çağdaş Türk Lehçeleri ve Edebiyatları",
+      "Çağdaş Yunan Dili ve Edebiyatı",
+      "Çağrı Merkezi Hizmetleri",
+      "Çalışma Ekonomisi ve Endüstri İlişkileri",
+      "Çay Tarımı ve İşleme Teknolojisi",
+      "Çerkez Dili ve Edebiyatı",
+      "Çerkez Dili ve Kültürü",
+      "Çeviribilimi",
+      "Çevre Koruma ve Kontrol",
+      "Çevre Mühendisliği",
+      "Çevre Sağlığı",
+      "Çevre Sağlığı ve Çevresel Risk Yönetimi Teknikerliği",
+      "Çevresel Ölçüm ve İzleme Sistemleri Teknikerliği",
+      "Çim Alan Tesisi ve Yönetimi",
+      "Çin Dili ve Edebiyatı",
+      "Çince Mütercim ve Tercümanlık",
+      "Çini Sanatı ve Tasarımı",
+      "Çizgi Film ve Animasyon",
+      "Çocuk Gelişimi",
+      "Çocuk Koruma ve Bakım Hizmetleri",
+      "Çok Boyutlu Modelleme ve Animasyon",
+      "Deniz Brokerliği",
+      "Deniz Ulaştırma İşletme Mühendisliği",
+      "Deniz Ulaştırma ve İşletme",
+      "Deniz ve Liman İşletmeciliği",
+      "Denizcilik İşletmeleri Yönetimi",
+      "Deri Mühendisliği",
+      "Deri Teknolojisi",
+      "Dezenfeksiyon, Sterilizasyon ve Antisepsi Teknikerliği",
+      "Dış Ticaret",
+      "Dijital Dönüşüm Elektroniği",
+      "Dijital Fabrika Teknolojileri",
+      "Dijital Oyun Tasarımı",
+      "Dijital Oyun Teknolojileri",
+      "Dijital Sağlık Sistemleri Teknikerliği",
+      "Dijital Tarım Teknolojileri",
+      "Dijital Yapımcılık ve Yayıncılık",
+      "Dil ve Konuşma Terapisi",
+      "Dilbilimi",
+      "Diş Hekimliği",
+      "Diş Protez Teknolojisi",
+      "Diyaliz",
+      "Doğa Koruma ve Biyoçeşitlilik Yönetimi",
+      "Doğal Yapı Taşları Teknolojisi",
+      "Doğalgaz ve Tesisatı Teknolojisi",
+      "Döküm",
+      "E-İşletme ve E-Ticaret  ",
+      "E-Ticaret",
+      "E-Ticaret ve Pazarlama",
+      "Ebelik",
+      "Eczacılık",
+      "Eczane Hizmetleri",
+      "Egzersiz ve Spor Bilimleri",
+      "Ekonometri",
+      "Ekonomi",
+      "Ekonomi ve Finans",
+      "El Sanatları",
+      "Elektrik",
+      "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Elektrik Makineleri Bakım ve Onarımı",
+      "Elektrik Mühendisliği",
+      "Elektrik-Elektronik Mühendisliği",
+      "Elektrikli Cihaz Teknolojisi",
+      "Elektronik Haberleşme Teknolojisi",
+      "Elektronik Mühendisliği",
+      "Elektronik Teknolojisi",
+      "Elektronik Ticaret ve Yönetimi",
+      "Elektronik ve Haberleşme Mühendisliği",
+      "Elektronörofizyoloji",
+      "Emlak Yönetimi",
+      "Endüstri Mühendisliği",
+      "Endüstri Ürünleri Tasarımı",
+      "Endüstriyel Cam ve Seramik",
+      "Endüstriyel Hammaddeler İşleme Teknolojisi",
+      "Endüstriyel Kalıpçılık",
+      "Endüstriyel Tasarım",
+      "Endüstriyel Tasarım Mühendisliği",
+      "Enerji Bilimi ve Teknolojileri",
+      "Enerji Sistemleri Mühendisliği",
+      "Enerji Tesisleri İşletmeciliği",
+      "Enerji Yönetimi",
+      "Engelli Bakımı ve Rehabilitasyon",
+      "Engelliler İçin Gölge Öğreticilik",
+      "Ergoterapi",
+      "Ermeni Dili ve Kültürü",
+      "Eser Koruma",
+      "Eski Yunan Dili ve Edebiyatı",
+      "Et ve Ürünleri Teknolojisi",
+      "Evde Hasta Bakımı",
+      "Fars Dili ve Edebiyatı",
+      "Farsça Mütercim ve Tercümanlık",
+      "Felsefe",
+      "Felsefe Grubu Öğretmenliği",
+      "Felsefe ve Yapay Zeka",
+      "Fen Bilgisi Öğretmenliği",
+      "Fındık Eksperliği",
+      "Fiber Tekne İmalatı ve Kompozit Kalıp Teknolojileri",
+      "Fidan Yetiştiriciliği",
+      "Film Tasarımı ve Yönetimi",
+      "Finans ve Bankacılık",
+      "Finansal Teknoloji",
+      "Fizik",
+      "Fizik Mühendisliği",
+      "Fizik Öğretmenliği",
+      "Fizyoterapi",
+      "Fizyoterapi ve Rehabilitasyon",
+      "Fotoğraf",
+      "Fotoğraf ve Video",
+      "Fotoğrafçılık ve Kameramanlık",
+      "Fotonik",
+      "Fransız Dili ve Edebiyatı",
+      "Fransızca Mütercim ve Tercümanlık",
+      "Fransızca Öğretmenliği",
+      "Gastronomi  ",
+      "Gastronomi ve Mutfak Sanatları",
+      "Gayrimenkul Geliştirme ve Yönetimi",
+      "Gazetecilik",
+      "Geleneksel El Sanatları",
+      "Geleneksel Tekstillerin Korunması ve Restorasyonu",
+      "Geleneksel Türk Sanatları",
+      "Gemi İnşaatı",
+      "Gemi İnşaatı ve Gemi Makineleri Mühendisliği",
+      "Gemi Makineleri İşletme Mühendisliği",
+      "Gemi Makineleri İşletmeciliği",
+      "Gemi ve Deniz Teknolojisi Mühendisliği",
+      "Gemi ve Yat Tasarımı",
+      "Genetik ve Biyomühendislik",
+      "Geoteknik",
+      "Gerontoloji",
+      "Gıda Kalite Kontrolü ve Analizi",
+      "Gıda Mühendisliği",
+      "Gıda Teknolojisi",
+      "Giyim Üretim Teknolojisi",
+      "Görsel İletişim",
+      "Görsel İletişim Tasarımı",
+      "Görsel Sanatlar",
+      "Görsel Sanatlar ve İletişim Tasarımı",
+      "Grafik",
+      "Grafik Sanatlar",
+      "Grafik Tasarımı",
+      "Gümrük İşletme",
+      "Gürcü Dili ve Edebiyatı",
+      "Halıcılık ve Kilimcilik",
+      "Halkbilimi",
+      "Halkla İlişkiler ve Pazarlama İletişimi",
+      "Halkla İlişkiler ve Reklamcılık",
+      "Halkla İlişkiler ve Tanıtım",
+      "Harita Mühendisliği",
+      "Harita ve Kadastro",
+      "Hassas Tarım ve Tarımsal Robotlar",
+      "Hasta Bakımı",
+      "Hava Aracı İmalat Teknolojileri",
+      "Hava Lojistiği",
+      "Havacılık Elektrik ve Elektroniği",
+      "Havacılık Elektroniği Teknolojileri",
+      "Havacılık ve Uzay Mühendisliği",
+      "Havacılık Yönetimi",
+      "Hayvancılık Teknolojileri ve İşletmeciliği",
+      "Hayvansal Üretim ve Teknolojileri",
+      "Hemşirelik",
+      "Hibrid ve Elektrikli Taşıtlar Teknolojisi",
+      "Hidrojen ve Enerji Depolama Teknikerliği",
+      "Hidrojeoloji Mühendisliği",
+      "Hidrolik ve Pnömatik Teknikerliği",
+      "Hindoloji",
+      "Hititoloji",
+      "Hukuk",
+      "Hungaroloji",
+      "İbrani Dili ve Kültürü",
+      "İç Mekan Tasarımı",
+      "İç Mimarlık",
+      "İç Mimarlık ve Çevre Tasarımı",
+      "İç Mimarlık ve Mobilya Tasarımı",
+      "İklim Bilimi ve Meteoroloji Mühendisliği",
+      "İklimlendirme ve Soğutma Teknolojisi",
+      "İkram Hizmetleri",
+      "İktisat",
+      "İlaç Üretim Teknolojisi",
+      "İlahiyat",
+      "İletişim",
+      "İletişim Bilimleri",
+      "İletişim Tasarımı ve Yönetimi",
+      "İletişim ve Tasarımı",
+      "İlk ve Acil Yardım",
+      "İlköğretim Matematik Öğretmenliği",
+      "İmalat Mühendisliği",
+      "İmalat Yürütme Sistemleri Operatörlüğü",
+      "İngiliz Dilbilimi",
+      "İngiliz Dili ve Edebiyatı",
+      "İngilizce Mütercim ve Tercümanlık",
+      "İngilizce Öğretmenliği",
+      "İngilizce, Fransızca Mütercim ve Tercümanlık",
+      "İnsan Kaynakları Yönetimi",
+      "İnsansız Araç Teknikerliği",
+      "İnsansız Hava Aracı Teknolojisi ve Operatörlüğü",
+      "İnşaat Mühendisliği",
+      "İnşaat Teknolojisi",
+      "İnternet ve Ağ Teknolojileri",
+      "İslam İktisadı ve Finans",
+      "İslami İlimler",
+      "İspanyol Dili ve Edebiyatı",
+      "İspanyolca Mütercim ve Tercümanlık",
+      "İstatistik",
+      "İstatistik ve Bilgisayar Bilimleri",
+      "İş Makineleri Operatörlüğü",
+      "İş Sağlığı ve Güvenliği",
+      "İş ve Uğraşı Terapisi",
+      "İşletme",
+      "İşletme Mühendisliği",
+      "İşletme ve Yapay Zeka",
+      "İşletme Yönetimi",
+      "İtalyan Dili ve Edebiyatı",
+      "Japon Dili ve Edebiyatı",
+      "Japonca Mütercim ve Tercümanlık",
+      "Japonca Öğretmenliği",
+      "Jeofizik Mühendisliği",
+      "Jeoloji Mühendisliği",
+      "Kamu Yönetimi",
+      "Kanatlı Hayvan Yetiştiriciliği",
+      "Karayolu Yük Taşıtı Sürücülüğü",
+      "Karbon Yönetimi Teknikerliği",
+      "Karşılaştırmalı Edebiyat",
+      "Kaynak Teknolojisi",
+      "Kenevir Dokumacılığı",
+      "Kentsel Tasarım ve Peyzaj Mimarlığı",
+      "Kimya",
+      "Kimya Mühendisliği",
+      "Kimya Öğretmenliği",
+      "Kimya Teknolojisi",
+      "Kimya-Biyoloji Mühendisliği",
+      "Klasik Arkeoloji",
+      "Kontrol ve Otomasyon Mühendisliği",
+      "Kontrol ve Otomasyon Teknolojisi",
+      "Kooperatifçilik",
+      "Kore Dili ve Edebiyatı",
+      "Kozmetik Teknolojisi",
+      "Kurgu, Ses ve Görüntü Yönetimi",
+      "Kurumsal Bilişim Uzmanlığı",
+      "Kuyumculuk ve Mücevher Tasarımı",
+      "Kuyumculuk ve Takı Tasarımı",
+      "Kültür Varlıklarını Koruma ve Onarım",
+      "Kültür ve İletişim Bilimleri",
+      "Kültürel Miras ve Turizm",
+      "Kümes Hayvanları Yetiştiriciliği",
+      "Küresel Siyaset ve Uluslararası İlişkiler",
+      "Kürt Dili ve Edebiyatı",
+      "Laborant ve Veteriner Sağlık",
+      "Laboratuvar Hayvanları",
+      "Laboratuvar Teknolojisi",
+      "Latin Dili ve Edebiyatı",
+      "Leh Dili ve Edebiyatı",
+      "Lojistik",
+      "Lojistik Yönetimi",
+      "Maden Mühendisliği",
+      "Madencilik Teknolojisi",
+      "Mahkeme Büro Hizmetleri",
+      "Makine",
+      "Makine Mühendisliği",
+      "Makine Resim ve Konstrüksiyonu",
+      "Maliye",
+      "Malzeme Bilimi ve Mühendisliği",
+      "Malzeme Bilimi ve Nanoteknoloji Mühendisliği",
+      "Malzeme Bilimi ve Teknolojileri",
+      "Mantarcılık",
+      "Marina ve Yat İşletmeciliği",
+      "Marka İletişimi",
+      "Matematik",
+      "Matematik Mühendisliği",
+      "Matematik Öğretmenliği",
+      "Matematik ve Bilgisayar Bilimleri",
+      "Medya ve Görsel Sanatlar",
+      "Medya ve İletişim",
+      "Mekatronik",
+      "Mekatronik Mühendisliği",
+      "Mermer Teknolojisi",
+      "Metalurji",
+      "Metalurji ve Malzeme Mühendisliği",
+      "Meyve ve Sebze İşleme Teknolojisi",
+      "Mimari Dekoratif Sanatlar",
+      "Mimari Restorasyon",
+      "Mimarlık",
+      "Mobil Güvenlik Teknolojileri",
+      "Mobil Teknolojileri",
+      "Mobilya ve Dekorasyon",
+      "Moda Tasarımı",
+      "Moda Yönetimi",
+      "Moleküler Biyoloji ve Genetik",
+      "Moleküler Biyoteknoloji",
+      "Muhasebe ve Finans Yönetimi",
+      "Muhasebe ve Vergi Uygulamaları",
+      "Mühendislik ve Doğa Bilimleri Programları",
+      "Mütercim-Tercümanlık (Rusça)",
+      "Müzecilik",
+      "Nanobilim ve Nanoteknoloji",
+      "Nanoteknoloji Mühendisliği",
+      "Nükleer Enerji Mühendisliği",
+      "Nükleer Teknoloji ve Radyasyon Güvenliği",
+      "Nükleer Tıp Teknikleri",
+      "Odyoloji",
+      "Odyometri",
+      "Ofis Teknolojileri ve Veri Yönetimi",
+      "Okul Öncesi Öğretmenliği",
+      "Optik ve Akustik Mühendisliği",
+      "Optisyenlik",
+      "Optoelektronik ve Elektro Optik Teknolojileri",
+      "Organik Tarım",
+      "Organik Tarım İşletmeciliği",
+      "Orman Endüstrisi Mühendisliği",
+      "Orman Mühendisliği",
+      "Ormancılık ve Orman Ürünleri",
+      "Ortez ve Protez",
+      "Ortopedik Protez ve Ortez",
+      "Otel Yöneticiliği",
+      "Otobüs Kaptanlığı",
+      "Otomotiv Gövde ve Yüzey İşlem Teknolojileri",
+      "Otomotiv Mühendisliği",
+      "Otomotiv Teknolojisi",
+      "Otonom Sistemler Teknikerliği",
+      "Otopsi Yardımcılığı",
+      "Oyun Geliştirme ve Programlama",
+      "Ön-Yüz Yazılım Geliştirme",
+      "Özel Eğitim Öğretmenliği",
+      "Özel Güvenlik ve Koruma",
+      "Paramedik",
+      "Pastacılık ve Ekmekçilik",
+      "Patlayıcı ve Enerjetik Malzemeler Teknikerliği",
+      "Patoloji Laboratuvar Teknikleri",
+      "Pazarlama",
+      "Perakende Satış ve Mağaza Yönetimi",
+      "Perfüzyon",
+      "Petrol ve Doğalgaz Mühendisliği",
+      "Peyzaj Mimarlığı",
+      "Peyzaj ve Süs Bitkileri Yetiştiriciliği",
+      "Pilotaj",
+      "Podoloji",
+      "Polimer Malzeme Mühendisliği",
+      "Polimer Teknolojisi",
+      "Politika ve Ekonomi",
+      "Posta Hizmetleri",
+      "Protohistorya ve Ön Asya Arkeolojisi",
+      "Psikoloji",
+      "Psikolojik Danışmanlık ve Rehberlik",
+      "Psikolojik Danışmanlık ve Rehberlik Öğretmenliği",
+      "Radyo ve Televizyon Teknolojisi",
+      "Radyo, Televizyon ve Sinema",
+      "Radyoterapi",
+      "Rafineri ve Petro-Kimya Teknolojisi",
+      "Raylı Sistemler Elektrik ve Elektronik",
+      "Raylı Sistemler İşletmeciliği",
+      "Raylı Sistemler Makine Teknolojisi",
+      "Raylı Sistemler Makinistliği",
+      "Raylı Sistemler Mühendisliği",
+      "Raylı Sistemler Yol Teknolojisi",
+      "Rehberlik ve Psikolojik Danışmanlık",
+      "Reklam Tasarımı ve İletişimi",
+      "Reklamcılık",
+      "Rekreasyon",
+      "Rekreasyon Yönetimi",
+      "Robotik ve Otonom Sistemler Mühendisliği",
+      "Robotik ve Yapay Zeka",
+      "Rus Dili ve Edebiyatı",
+      "Rus Dili ve Edebiyatı Öğretmenliği",
+      "Rusça Mütercim ve Tercümanlık",
+      "Saç Bakımı ve Güzellik Hizmetleri",
+      "Saç ve Güzellik Uygulamaları",
+      "Sağlık Bilgi Sistemleri Teknikerliği",
+      "Sağlık Kurumları İşletmeciliği",
+      "Sağlık Turizmi İşletmeciliği",
+      "Sağlık Yönetimi",
+      "Sahne Işık ve Ses Teknolojileri",
+      "Sahne ve Dekor Tasarımı",
+      "Sanal ve Artırılmış Gerçeklik",
+      "Sanat Tarihi",
+      "Sanat ve Kültür Yönetimi",
+      "Sanat ve Sosyal Bilimler Programları",
+      "Seracılık",
+      "Seramik ve Cam Tasarımı",
+      "Sermaye Piyasası",
+      "Seyahat İşletmeciliği",
+      "Seyahat İşletmeciliği ve Turizm Rehberliği",
+      "Sınıf Öğretmenliği",
+      "Sırp Dili ve Edebiyatı",
+      "Siber Güvenlik",
+      "Siber Güvenlik Analistliği ve Operatörlüğü",
+      "Siber Güvenlik Mühendisliği",
+      "Sigortacılık",
+      "Sigortacılık ve Aktüerya Bilimleri",
+      "Sigortacılık ve Risk Yönetimi",
+      "Sigortacılık ve Sosyal Güvenlik",
+      "Silah Sanayi Teknikerliği",
+      "Sinema ve Dijital Medya",
+      "Sinema ve Televizyon",
+      "Sinoloji",
+      "Sivil Hava Ulaştırma İşletmeciliği",
+      "Sivil Havacılık Kabin Hizmetleri",
+      "Sivil Savunma ve İtfaiyecilik",
+      "Siyaset Bilimi",
+      "Siyaset Bilimi ve Kamu Yönetimi",
+      "Siyaset Bilimi ve Uluslararası İlişkiler",
+      "Sondaj Teknolojisi",
+      "Sosyal Bilgiler Öğretmenliği",
+      "Sosyal Güvenlik",
+      "Sosyal Hizmet",
+      "Sosyal Hizmetler",
+      "Sosyal Medya Yöneticiliği",
+      "Sosyoloji",
+      "Su Altı Kaynak Teknolojisi",
+      "Su Altı Teknolojisi",
+      "Su Bilimleri ve Mühendisliği",
+      "Su Ürünleri Endüstrisi Mühendisliği",
+      "Su Ürünleri İşleme Teknolojisi",
+      "Su Ürünleri Mühendisliği",
+      "Su ve Atık Yönetimi Teknikerliği",
+      "Sulama Teknolojisi",
+      "Sümeroloji",
+      "Süryani Dili ve Edebiyatı",
+      "Süt Teknolojisi",
+      "Süt ve Besi Hayvancılığı",
+      "Süt ve Ürünleri Teknolojisi",
+      "Şarap Üretim Teknolojisi",
+      "Şehir ve Bölge Planlama",
+      "Tahribatsız Muayene",
+      "Takı Tasarımı ve İmalatı",
+      "Talaşlı Üretim Teknikerliği",
+      "Tapu Kadastro",
+      "Tapu ve Kadastro",
+      "Tarım Ekonomisi",
+      "Tarım Makineleri",
+      "Tarım Makineleri ve Teknolojileri",
+      "Tarım Makineleri ve Teknolojileri Mühendisliği",
+      "Tarım Teknolojisi",
+      "Tarım Ticareti ve İşletmeciliği",
+      "Tarımsal Biyoteknoloji",
+      "Tarımsal Genetik Mühendisliği",
+      "Tarımsal İşletmecilik",
+      "Tarımsal Yapılar ve Sulama",
+      "Tarih",
+      "Tarih Öğretmenliği",
+      "Tarih Öncesi Arkeolojisi",
+      "Tarih ve Yapay Zeka",
+      "Tarla Bitkileri",
+      "Teknoloji ve Bilgi Yönetimi",
+      "Tekstil Mühendisliği",
+      "Tekstil Tasarımı",
+      "Tekstil Teknolojisi",
+      "Tekstil ve Halı Makineleri",
+      "Tekstil ve Moda Tasarımı",
+      "Tele-Sağlık Teknikerliği",
+      "Televizyon Haberciliği ve Programcılığı",
+      "Tespih Tasarımı ve İmalatı",
+      "Tıbbi Dokümantasyon ve Sekreterlik",
+      "Tıbbi Görüntüleme Teknikleri",
+      "Tıbbi Laboratuvar Teknikleri",
+      "Tıbbi Tanıtım ve Pazarlama",
+      "Tıbbi ve Aromatik Bitkiler",
+      "Tıbbi Veri İşleme Teknikerliği",
+      "Tıp",
+      "Tiyatro Eleştirmenliği ve Dramaturji",
+      "Tohum Bilimi ve Teknolojisi",
+      "Tohumculuk Teknolojisi",
+      "Toprak Bilimi ve Bitki Besleme",
+      "Turist Rehberliği",
+      "Turizm Animasyonu",
+      "Turizm İşletmeciliği",
+      "Turizm Rehberliği",
+      "Turizm ve Gastronomi Yönetimi Programları",
+      "Turizm ve Otel İşletmeciliği",
+      "Turizm ve Otel Yönetimi  ",
+      "Turizm ve Seyahat Hizmetleri",
+      "Türk Dili ve Edebiyatı",
+      "Türk Dili ve Edebiyatı Öğretmenliği",
+      "Türk Halkbilimi",
+      "Türk İslam Arkeolojisi",
+      "Türkçe Öğretmenliği",
+      "Türkoloji",
+      "Tütün Eksperliği",
+      "Uçak Bakım ve Onarım",
+      "Uçak Elektrik ve Elektroniği",
+      "Uçak Gövde ve Motor Bakımı",
+      "Uçak Mühendisliği",
+      "Uçak Teknolojisi",
+      "Uçuş Harekat Yöneticiliği",
+      "Ukrayna Dili ve Edebiyatı",
+      "Ulaştırma ve Trafik Hizmetleri",
+      "Uluslararası Finans",
+      "Uluslararası Finans ve Bankacılık",
+      "Uluslararası Girişimcilik",
+      "Uluslararası İlişkiler",
+      "Uluslararası İşletme Yönetimi",
+      "Uluslararası Ticaret",
+      "Uluslararası Ticaret ve Finans",
+      "Uluslararası Ticaret ve Finansman",
+      "Uluslararası Ticaret ve İşletmecilik",
+      "Uluslararası Ticaret ve Lojistik",
+      "Un ve Unlu Mamuller Teknolojisi",
+      "Urdu Dili ve Edebiyatı",
+      "Uygulamalı Bankacılık ve Finans  ",
+      "Uzaktan Algılama ve Coğrafi Bilgi Sistemleri",
+      "Uzay Bilimleri ve Teknolojileri",
+      "Uzay Mühendisliği",
+      "Üretimde Kalite Kontrol",
+      "Veri Bilimi ve Analitiği",
+      "Veri Görselleştirme ve Bilgi Tasarımı",
+      "Veri Mühendisliği",
+      "Veteriner",
+      "Web Tasarımı ve Kodlama",
+      "Yaban Hayatı Ekolojisi ve Yönetimi",
+      "Yağ Endüstrisi",
+      "Yapay Zeka Destekli Kodlama",
+      "Yapay Zeka Destekli Tasarım ve Animasyon",
+      "Yapay Zeka Destekli Web Tasarımı ve Kodlama",
+      "Yapay Zeka Mühendisliği",
+      "Yapay Zeka Operatörlüğü",
+      "Yapay Zeka ve Makine Öğrenmesi",
+      "Yapay Zeka ve Veri Analizi",
+      "Yapay Zeka ve Veri Mühendisliği",
+      "Yapı Denetimi",
+      "Yapı Ressamlığı",
+      "Yapı Tesisat Teknolojisi",
+      "Yapı Yalıtım Teknolojisi",
+      "Yapı Yüzeyi Tasarım Teknikerliği",
+      "Yaşlı Bakımı",
+      "Yat Kaptanlığı",
+      "Yazılım Geliştirme",
+      "Yazılım Mühendisliği",
+      "Yeni Medya",
+      "Yeni Medya ve Gazetecilik",
+      "Yeni Medya ve İletişim",
+      "Yenilenebilir Enerji Teknikerliği",
+      "Yerel Yönetimler",
+      "Yeşil ve Ekolojik Bina Teknikerliği",
+      "Yiyecek ve İçecek İşletmeciliği",
+      "Yönetim Bilimleri Programları",
+      "Yönetim Bilişim Sistemleri",
+      "Yunan Dili ve Edebiyatı",
+      "Zaza Dili ve Edebiyatı",
+      "Zeytincilik ve Zeytin İşleme Teknolojisi",
+      "Ziraat Mühendisliği Programları",
+      "Zootekni"
+    ],
+    "burslar": [
+      "%25 İndirimli",
+      "%50 İndirimli",
+      "Burslu",
+      "Ücretli"
+    ],
+    "ogretimTurleri": [
+      "Açık Öğretim",
+      "Örgün Öğretim",
+      "UOLP",
+      "Uzaktan Öğretim"
+    ]
+  }
+}
